@@ -196,7 +196,7 @@ const fallbackFingermarkData = [
       }
     ],
     "source_pages": "1, 5-9",
-    "audio_path": "media/fingermark_ch1.mp3",
+    "audio_path": "media/fingermark_ch1.m4a",
     "video_path": "media/fingermark_ch1.mp4"
   },
   {
@@ -223,7 +223,7 @@ const fallbackFingermarkData = [
       }
     ],
     "source_pages": "1-5",
-    "audio_path": "media/fingermark_ch2.mp3",
+    "audio_path": "media/fingermark_ch2.m4a",
     "video_path": "media/fingermark_ch2.mp4"
   },
   {
@@ -260,7 +260,7 @@ const fallbackFingermarkData = [
       }
     ],
     "source_pages": "9-10, 15-18",
-    "audio_path": "media/fingermark_ch3.mp3",
+    "audio_path": "media/fingermark_ch3.m4a",
     "video_path": "media/fingermark_ch3.mp4"
   },
   {
@@ -297,7 +297,7 @@ const fallbackFingermarkData = [
       }
     ],
     "source_pages": "10-15",
-    "audio_path": "media/fingermark_ch4.mp3",
+    "audio_path": "media/fingermark_ch4.m4a",
     "video_path": "media/fingermark_ch4.mp4"
   },
   {
@@ -329,7 +329,7 @@ const fallbackFingermarkData = [
       }
     ],
     "source_pages": "19-25",
-    "audio_path": "media/fingermark_ch5.mp3",
+    "audio_path": "media/fingermark_ch5.m4a",
     "video_path": "media/fingermark_ch5.mp4"
   }
 ];
