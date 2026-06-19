@@ -515,7 +515,8 @@ function switchCategory(category) {
     activeView = 'chapters';
     
     // Update theme class on body
-    document.body.className = `theme-${category} ${document.body.classList.contains('light-mode') ? 'light-mode' : 'dark-mode'}`;
+    const themeClass = category === 'fingermarks' ? 'theme-fm' : `theme-${category}`;
+    document.body.className = `${themeClass} ${document.body.classList.contains('light-mode') ? 'light-mode' : 'dark-mode'}`;
     
     // Update Category switcher buttons
     document.getElementById('btn-cat-dna').classList.toggle('active', category === 'dna');
