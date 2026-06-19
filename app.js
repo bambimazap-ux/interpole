@@ -686,17 +686,25 @@ function toggleChapterMode(category, chapterNum, mode) {
 // --- Utility: Format Texts (RTL/LTR formatting) ---
 function formatHebrewText(text) {
     if (!text) return '';
-    // Wrap English letters/numbers/special characters (like technical codes) in a LTR tech-term span.
-    // This handles codes like ISO 21043, ANSI/ASB 123, QAS, Y-STR, RapidHIT ID, Tween 20, Wet Powder Black, PCR, etc.
-    const englishRegex = /\b[A-Za-z0-9][A-Za-z0-9\s\/\-\.\(\)\,\:\&\+]*[A-Za-z0-9\)]\b|\b[A-Za-z0-9]\b/g;
     
-    // Avoid double-wrapping or wrapping parts of existing HTML tags if text contains them
-    return text.replace(englishRegex, (match) => {
-        // If it's a number alone, check if it should be LTR (mostly yes, but keep it clean)
-        // If it contains only letters, space, digits, slash, hyphen - wrap it.
-        // Don't wrap if it's already inside a tag (we handle this by keeping text segments clean)
-        return `<span class="tech-term" dir="ltr">${match}</span>`;
+    // 1. Replace markdown bold **text** with <strong>text</strong>
+    const parsedText = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    
+    // 2. Wrap English letters/numbers/special characters (like technical codes) in a LTR tech-term span.
+    // We split by HTML tags first to avoid wrapping inside existing HTML tags (like <strong> or <mark>).
+    const englishRegex = /\b[A-Za-z0-9][A-Za-z0-9\s\/\-\.\(\)\,\:\&\+]*[A-Za-z0-9\)]\b|\b[A-Za-z0-9]\b/g;
+    const parts = parsedText.split(/(<[^>]+>)/g);
+    
+    const formattedParts = parts.map(part => {
+        if (part.startsWith('<')) {
+            return part; // Skip HTML tags
+        }
+        return part.replace(englishRegex, (match) => {
+            return `<span class="tech-term" dir="ltr">${match}</span>`;
+        });
     });
+    
+    return formattedParts.join('');
 }
 
 function getPdfPage(sourcePages) {
