@@ -522,6 +522,16 @@ function switchCategory(category) {
     document.getElementById('btn-cat-fm').classList.toggle('active', category === 'fingermarks');
     document.getElementById('btn-glossary-view').classList.remove('active');
     
+    // Update logo icon dynamically based on category
+    const logoIcon = document.getElementById('logo-icon-img');
+    if (logoIcon) {
+        if (category === 'dna') {
+            logoIcon.className = 'fa-solid fa-dna logo-icon';
+        } else if (category === 'fingermarks') {
+            logoIcon.className = 'fa-solid fa-fingerprint logo-icon';
+        }
+    }
+    
     // Toggle active sections in viewport
     document.getElementById('chapters-section').style.display = 'block';
     document.getElementById('glossary-section').style.display = 'none';
@@ -566,6 +576,12 @@ function toggleGlossaryView() {
     // Toggle displays
     document.getElementById('chapters-section').style.display = 'none';
     document.getElementById('glossary-section').style.display = 'block';
+    
+    // Update logo icon to book in glossary view
+    const logoIcon = document.getElementById('logo-icon-img');
+    if (logoIcon) {
+        logoIcon.className = 'fa-solid fa-book-open logo-icon';
+    }
     
     renderGlossary();
 }

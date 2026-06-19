@@ -20,11 +20,15 @@
         <!-- Sidebar Navigation -->
         <aside class="sidebar glass-panel">
             <div class="sidebar-header">
+                <div class="official-logos">
+                    <img src="assets/logo_forensic.png" alt="לוגו מזפ" class="official-logo-img">
+                    <img src="assets/logo_rd.png" alt="לוגו מדור מוהפ" class="official-logo-img">
+                </div>
                 <div class="logo">
-                    <i class="fa-solid fa-dna logo-icon"></i>
+                    <i class="fa-solid fa-dna logo-icon" id="logo-icon-img"></i>
                     <div class="logo-text">
                         <span class="logo-title">FORENSIC</span>
-                        <span class="logo-subtitle">מז"פ אינטליגנציה</span>
+                        <span class="logo-subtitle">מדור מו"פ מז"פ</span>
                     </div>
                 </div>
             </div>
@@ -114,12 +118,30 @@
                     
                     <!-- Global Portal Header -->
                     <div class="portal-welcome-card glass-card">
-                        <div class="welcome-badge">מערכת סקירות ספרות רשמיות</div>
-                        <h1 class="portal-main-title">INTERPOL Forensic Science Reviews (2022-2025)</h1>
-                        <h2 class="portal-sub-title">DNA & Fingermarks • ביולוגיה, דנ"א וטביעות אצבע</h2>
+                        <div class="welcome-header-layout">
+                            <div class="welcome-text-side">
+                                <div class="welcome-badge">מערכת סקירות ספרות רשמיות</div>
+                                <h1 class="portal-main-title">INTERPOL Forensic Science Reviews (2022-2025)</h1>
+                                <h2 class="portal-sub-title">DNA & Fingermarks • ביולוגיה, דנ"א וטביעות אצבע</h2>
+                            </div>
+                            <div class="welcome-logos-side">
+                                <img src="assets/logo_forensic.png" alt="לוגו מזפ" class="welcome-logo-img">
+                                <img src="assets/logo_rd.png" alt="לוגו מדור מוהפ" class="welcome-logo-img">
+                            </div>
+                        </div>
                         <p class="portal-explanation">
                             פורטל זה מנגיש בעברית בצורה מודולרית (תקצירים מנהליים והרחבות טכניות) את סקירות האינטרפול הרשמיות בתחומי הביולוגיה הפורנזית, הדנ"א וטביעות האצבע שפורסמו עבור סימפוזיון מנהלי המעבדות הפורנזיות הבינלאומי ה-21. המערכת נועדה לסייע לקציני וחוקרי החטיבה לזיהוי פלילי (מז"פ) להתעדכן במהירות במאות המחקרים ופיתוחי הקצה שפורסמו בעולם, וכוללת קישורים ישירים למסמכי המקור באנגלית ונגני מדיה (קול ווידאו) ללמידה מונחית.
                         </p>
+                        
+                        <!-- Credit & AI Disclaimer Footnote -->
+                        <div class="portal-footer-notes">
+                            <div class="credit-note">
+                                <i class="fa-solid fa-code-branch"></i> האפליקציה פותחה ע"י **מדור מחקר ופיתוח, החטיבה לזיהוי פלילי (מז"פ)**
+                            </div>
+                            <div class="disclaimer-note">
+                                <i class="fa-solid fa-triangle-exclamation"></i> <strong>הבהרה:</strong> חלק מהתקצירים והתרגומים עובדו וסוכמו באמצעות כלי בינה מלאכותית (AI). המידע נועד להעשרה ולעיון מהיר, ויש להפעיל שיקול דעת מקצועי ומבצעי בעת יישומו.
+                            </div>
+                        </div>
                     </div>
                 <!-- Search Results Bar (Dynamic) -->
                 <div class="search-status-bar glass-card" id="search-status" style="display: none;">

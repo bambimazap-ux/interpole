@@ -1891,16 +1891,12 @@ body.light-mode .pdf-viewer-panel {
     font-size: 1.9rem;
     font-weight: 800;
     margin-bottom: 0.4rem;
-    background: linear-gradient(135deg, #ffffff 40%, var(--accent));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #ffffff; /* Solid color fallback to fix invisible header bug */
     letter-spacing: -0.5px;
 }
 
 body.light-mode .portal-main-title {
-    background: linear-gradient(135deg, #111827 40%, var(--accent));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #111827; /* Solid color for light mode */
 }
 
 .portal-sub-title {
@@ -1918,5 +1914,133 @@ body.light-mode .portal-main-title {
     color: var(--text-muted);
     text-align: justify;
 }
+
+/* Sidebar Official Logos styling */
+.official-logos {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.2rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.official-logo-img {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    background: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform var(--transition-fast);
+}
+
+.official-logo-img:hover {
+    transform: scale(1.08);
+}
+
+/* Hide sidebar logos in tablet when collapsed */
+@media (max-width: 1024px) {
+    .official-logos {
+        display: none !important;
+    }
+}
+
+/* Welcome Card Header Layout (Title + Logos) */
+.welcome-header-layout {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 1.2rem;
+}
+
+.welcome-text-side {
+    flex-grow: 1;
+}
+
+.welcome-logos-side {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.welcome-logo-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid rgba(255, 255, 255, 0.15);
+    background: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    transition: transform 0.2s ease;
+}
+
+.welcome-logo-img:hover {
+    transform: scale(1.08);
+}
+
+/* Portal Footer Notes (Credits & AI Disclaimer) */
+.portal-footer-notes {
+    margin-top: 1.8rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+.credit-note {
+    font-size: 0.88rem;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.disclaimer-note {
+    font-size: 0.82rem;
+    line-height: 1.5;
+    color: var(--text-muted);
+    background: rgba(239, 68, 68, 0.05);
+    border: 1px solid rgba(239, 68, 68, 0.15);
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.6rem;
+}
+
+body.light-mode .disclaimer-note {
+    background: rgba(239, 68, 68, 0.03);
+    border-color: rgba(239, 68, 68, 0.1);
+}
+
+.disclaimer-note i {
+    color: #ef4444;
+    margin-top: 2px;
+}
+
+/* Responsive adjustment for welcome layout */
+@media (max-width: 767px) {
+    .welcome-header-layout {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    
+    .welcome-logos-side {
+        width: 100%;
+        justify-content: flex-start;
+        margin-bottom: 0.5rem;
+    }
+    
+    .welcome-logo-img {
+        width: 48px;
+        height: 48px;
+    }
+}
+
 
 
