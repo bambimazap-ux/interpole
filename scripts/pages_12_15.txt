@@ -1,0 +1,546 @@
+
+================ PAGE 12 ================
+was found unsuitable for post-mortem rectal samples (Müller et al., 
+2025). Cryopreservation methods were compared (Namaa et al., 2024). 
+High-resolution melting quantitative PCR (HRM-qPCR) methods were 
+used to analyze semen stains in casework (Nogueira et al., 2022). 
+Methods for rapid documentation of possible semen stains were 
+described (Thong et al., 2025).
+Sperm Cells. Advancements were reviewed for differentiating sperm 
+from epithelial cells in sexual assault cases (Dash 2024). Approaches 
+described in the literature included fluorescence-activated cell sorting 
+(Fokias & Bekaert 2022), alkaline lysis methods (Forsberg et al., 2025), 
+the Hy-liter system (Grosjean & Castella 2025), magnetic bead-based 
+separation (Li et al., 2023, Wang et al., 2025), acoustic filtration de-
+vices to obtain sperm enrichment (Wan et al., 2024), and AI systems for 
+automated sperm identification (Mob¨ ack et al., 2025, Schunck & 
+Ehinger 2025).
+Using RNA Analysis. RNA sequencing identified individuals from 
+low-template samples (Andersen et al., 2022). Multiplex RNA analysis 
+identified organ tissues (Broderius et al., 2025). Combined messenger 
+(mRNA) and microRNA (miRNA) analysis was explored to differentiate 
+five common body fluids (Chen et al., 2023). Targeted RNA sequencing 
+protocols were evaluated (Gosch & Courts 2025). Two European DNA 
+Profiling Group (EDNAP) collaborative exercises explored mRNA 
+profiling (H¨ anggi et al., 2025). Targeted S5 RNA sequencing identified 
+fluids in mixtures (Hanson et al., 2023). Vaginal cells were differentiated 
+using autofluorescence (Ingram et al., 2022). A colorimetric RT-LAMP 
+assay targeted the long non-coding RNA X-inactive specific transcript 
+(XIST) to confirm female samples (Kubo et al., 2024). Multiplex RT-
+qPCR identified saliva, blood, and semen (Kwak et al., 2025). Transfer 
+RNA-derived small RNAs (tsRNAs) were explored for fluid identification 
+(Li et al., 2025a). Nanopore-based mRNA sets were developed for pe-
+ripheral blood, menstrual blood, saliva, semen, and vaginal secretions 
+(Li et al., 2025b). A support vector machine model used 14 miRNAs for 
+forensic body fluid classification (Li et al., 2025c). Target mRNA cSNP 
+sequencing identified fluid donors (Liu et al., 2024, Liu et al. 2025a, Liu 
+et al. 2025b). Endpoint and real-time PCR assays were compared for 
+their capabilities with body fluid characterization (Lynch & Fleming 
+2025). RT-LAMP was compared to mRNA methods (Martin et al., 2025). 
+Targeted sequencing combined mRNA and coding region SNPs (Neis 
+et al., 2024). The classification reliability of a quadratic discriminant 
+analysis model using 8 miRNA markers was assessed (Rhodes et al., 
+2023). Dutch court outcomes regarding mRNA were reviewed (Sijen & 
+van den Berge 2025). Adipose and rectal mucosa markers were added to 
+assays (van den Berge & Sijen 2022, van den Berge et al., 2025). Like-
+lihood ratio systems were implemented (van den Berge et al., 2022). An 
+mRNA assay was developed incorporating insertion-deletion markers 
+(InDels) (Wang et al., 2024). Reference genes were screened for miRNA 
+analysis (Wei et al., 2023). New miRNA markers distinguished saliva 
+from vaginal secretion (Yang et al., 2025).
+Using DNA Methylation. Methylation markers were validated for 
+the Chinese Han population (Fang et al., 2023). High-resolution melt 
+detected skin/sweat (Fernandez-Tejero et al., 2023). Collection methods 
+affected saliva methylation (Ghemrawi et al., 2024). Sex-specific dif-
+ferences in saliva were analyzed (Govender et al., 2025). Enzyme con-
+version was explored (Huang et al., 2025). SNaPshot and massively 
+parallel sequencing (MPS) were compared and standardized (Kim et al., 
+2024a, Kim et al., 2024b). Workflows were established for fluid iden-
+tification (Konrad et al., 2023; Li et al., 2025). Epigenetic markers linked 
+suspects to tissues (Mizrachi et al., 2025) and approaches for 
+methylation-sensitive restriction enzyme (MSRE) PCR were expanded 
+(Rothe et al., 2024). Markers were analyzed across clinical phenotypes 
+(Silva et al., 2023). Compound markers identified blood donors (Tang 
+et al., 2024). Random forest models identified mixtures (Wang et al., 
+2023). A fluorescent probe-based assay detected saliva (Watanabe et al., 
+2023). AI-driven feature selection screened CpGs using pyrosequencing 
+(Zhao et al., 2025).
+Using Microbial DNA. Machine learning was used to identify
+bacterial profiles (Kim et al., 2025). Combined approaches used mi-
+crobial DNA and microRNAs (Lewis & Seashols-Williams 2024). Expo-
+sure to vaginal fluid changed microbial communities (Liao et al., 2023). 
+Metatranscriptomic characterization was applied to forensic samples 
+(Liu et al., 2024). Bacterial signatures were used to identify seven body 
+fluids (Wohlfahrt et al., 2023). Multiplex systems identified fluids and 
+skin (Yao et al., 2024). Lateral flow dipsticks detected specific bacteria 
+(Yu et al., 2023). Environmental microbiota were found to interfere with 
+identification of body fluids (Zhang et al., 2025).
+Using Flow Cytometry and Cell Morphology. Imaging flow 
+cytometry differentiated vaginal cells (Ingram et al., 2023) and classi-
+fied epidermal, buccal, penile, and vaginal cells (Ross et al., 2024). 
+Biomarkers were used with flow cytometry to detect body fluids (Tewari 
+et al., 2023).
+Estimation of Time Since Deposition. Semen detection techniques 
+were advanced to determine time since deposition (Cisana et al., 2025). 
+Fluorescence spectroscopy integrated time estimation into workflows 
+(Elliott et al., 2025). Quantitative approaches assessed autofluorescence 
+and morphology (Gentry et al., 2023). Transcriptomic analyses esti-
+mated deposition time (Gosch et al., 2022, Gosch et al., 2025). Cellular 
+signatures were identified for trace DNA (Ingram et al., 2022). Time 
+since saliva deposition influenced the ability to recover DNA profiles 
+from a living individual (Ishikawa et al., 2024). Microbial community 
+succession was used to infer time since deposition of saliva (Jin et al., 
+2024) and vaginal fluid (Ye et al., 2024). Body fluids should be identi-
+fied before estimating time since deposition when using microbiomes 
+(Zhang et al., 2024).
+DNA Suitability of Hair. Hematoxylin staining increased DNA 
+profile success from hair roots (Admire et al., 2023, Burnett et al., 2025). 
+Deep learning was applied to hair analysis (Airlie et al., 2024). Nuclei 
+shapes were characterized (Donfack et al., 2024). Emerging technolo-
+gies assessed profiling capabilities (Haines et al., 2025). Nuclei count 
+thresholds were revisited (Otterstatter et al., 2023). Nucleic acid dyes 
+targeted suitable hair follicles (Palencia-Madrid et al., 2025). 
+Biological Sex Determination. Exfoliated cells from toothbrushes 
+were used for biological sex identification (Alqarni et al., 2024). LAMP-
+based methods detected male DNA using multiple Y-chromosome assays 
+(Burgos et al., 2022, Chunkul et al., 2025, Kubo et al., 2023a, Kubo et al., 
+2023b). DNA from teeth allowed sex determination (Dubey & Shah 
+2023, Prasad et al., 2024). Amelogenin analysis was used for testing 
+enamel (Gamble et al., 2024) and biological material collected on 
+toothpicks (Kurniawan et al., 2023). Genetic approaches were applied to 
+pseudohermaphroditism (Lai et al., 2023). Privacy concerns were raised 
+regarding sex disclosure (Lynch et al., 2025). Recombinase polymerase 
+amplification detected male DNA from all tested human semen samples 
+(Sukjai & Monthatong 2023). Genetic sexing was performed on subadult 
+remains (Zupaniˇc Pajniˇc et al., 2023).
+Processing Sexual Assault Kits. ASTM Standard E2057-23 was 
+updated regarding analysis requests in sexual violence investigations 
+(ASTM Committee E30 on Forensic Sciences 2023). Victim notification 
+protocols (Campbell et al., 2023) and "test all" mandates were examined 
+(Pattavina et al., 2024). Issues around community-based advocacy 
+(Campbell et al., 2024a) and institutional betrayal (Campbell et al., 
+2024b) were explored. Trauma-informed approaches were advocated 
+(Campbell et al., 2025a), and survivors' testimony experiences were 
+analyzed (Campbell et al., 2025b). mRNA profiling of vaginal swabs was 
+studied (Chierto et al., 2023). Bioanalytical workflows in the UK were 
+reviewed (Dawnay & Sheppard 2023). Case labeling was compared 
+(Duncan et al., 2025). Male underwear evidence was highlighted as a 
+potential sample source in alleged sexual assault investigations (Flana-
+gan et al., 2024). Consumables were assessed (Gaskell et al., 2024), and 
+environmental DNA contamination examined (Gaskell et al., 2025). A 
+call to action was issued for forensic nurses (Glover 2023). Judicial 
+concerns regarding immigrant victims were analyzed (Hashmi et al., 
+2025). Automated processing kits were developed (Hess et al., 2025). 
+Contextual analysis increased conviction rates (Karolien & Antje 2024).
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+12 
+
+
+================ PAGE 13 ================
+Automation processed backlogs in Brazil (Kortmann et al., 2024). 
+Forensic aspects of condom evidence were reviewed (Nimi et al., 2024). 
+Microscopical detection of spermatozoa was improved (Savage et al., 
+2024). Optimal timing for evidence collection from pediatric cases was 
+determined to be less than 24 h (Wood et al., 2023).
+3.5. DNA processing
+The process of obtaining a DNA profile begins with collecting a 
+biological sample and extracting DNA from it. Foundational and 
+advanced resources continue to shape the field of DNA processing. 
+Books, Review Articles, and Guidance. A new textbook introduced 
+forensic genetics concepts specifically for non-geneticists (Amorim 
+2025). A comprehensive volume detailed recent advances in forensic 
+biology and DNA typing (Barbaro & Mishra 2025). Specific protocols 
+were published for using QIAGEN's Investigator Quantiplex Pro Kit 
+(Bonnette 2023a) and the Investigator 24plex QS and GO! amplification 
+kits (Bonnette 2023b). Manual silica-based DNA extraction methods 
+were detailed in a methods protocol collection (Connon 2023). A text-
+book covered broad advancements in forensic DNA analysis (Dash et al., 
+2023). The ENFSI DNA Working Group released a best practice manual 
+for human forensic biology and DNA profiling (ENFSI DNA Working 
+Group 2022). Protocols were provided for the manual and semi-
+automated use of the PrepFiler Forensic DNA Extraction Kit (Foley 
+2023), as well as for DNA purification from bloodstains and saliva on 
+FTA cards (Hudson & Connon 2023). Methodologies were outlined for 
+DNA quantitation using the Quantifiler Trio kit (Knight et al., 2023) and 
+for the quantitative PCR of Alu repeats (Laveroni & Parks 2023). Organic 
+extraction techniques using ethanol precipitation or centrifugal filter 
+purification were described (Lewis 2023). A method for detecting latent 
+DNA using a DNA-binding dye was detailed (Linacre & Petcharoen 
+2023). A critical review examined the current state and limitations of 
+PCR in forensic science (McDonald et al., 2024). NIST released reports 
+on opportunities to strengthen evidence management processes (NIST/ 
+NIJ Evidence Management Steering Committee 2025a), results from a 
+national survey of evidence handlers (NIST/NIJ Evidence Management 
+Steering Committee 2025b), and an expanded bibliography on evidence 
+management (NIST/NIJ Evidence Management Steering Committee 
+2025c).
+Crime Science Investigation and Sample Selection Decisions. 
+Research into decision-making and triage has highlighted human factors 
+and new screening technologies. Casework pressures and ambiguity 
+aversion were shown to influence how forensic items are triaged 
+(Almazrouei et al., 2025). Investigator decision-making regarding 
+forensic evidence was analyzed in volume crime investigations (Brown 
+et al., 2024). The benefits and limitations of forensic light sources were 
+illuminated in a recent study (Finnis et al., 2023). A framework for 
+rational decision-making regarding whether to test forensic biology 
+samples was proposed (Gittelson & Taroni 2025). Potential DNA 
+contamination introduced by laboratory consumables was demonstrated 
+using fluorescein (Hymus et al., 2025). Reliability and bias were 
+examined in the context of crime scene investigators' selection and 
+prioritization of blood traces (Lid´en & Almazrouei 2023). A nationwide 
+study analyzed the usage of forensic genetic analyses in criminal cases in 
+Denmark (Meyer et al., 2025). The efficiency paradigm of high-tech 
+forensic methods was challenged by the persistent attraction of low-
+tech solutions (Vestad 2024).
+Fingerprint and DNA Processing. The compatibility of DNA anal-
+ysis with fingerprint visualization techniques remains a key research 
+area. DNA typing was successfully performed on cyanoacrylate-fumed 
+latent fingerprints using GlobalFiler and ForenSeq kits (Bodnar et al., 
+2024). Diamond Nucleic Acid Dye was combined with cyanoacrylate 
+fuming to visualize latent DNA alongside fingermarks (Britton et al., 
+2024). DNA loss from latent prints due to fingerprint processing was 
+quantified in a laboratory setting (Carlin et al., 2023). An optical 
+biosensor using Diamond Nucleic Acid Dye was investigated for
+analyzing DNA and friction ridges (Czarnomska et al., 2024). A 
+customized protocol was developed to generate STR profiles from latent 
+fingerprints (Di Nunzio et al., 2022). The "Minimum Surface Require-
+ment" metric was introduced to assess the suitability of fingerprints for 
+STR profiling (Di Nunzio et al., 2025). DNA sampling and fingerprint 
+development were shown not to be a zero-sum game when using DNA-
+free consumables (Gardiner et al., 2025). The effects of solvent-based 
+adhesive removal on subsequent fingerprint and DNA analysis were 
+evaluated (Gausterer et al., 2023). Two adhesive media were evaluated 
+for the recovery of DNA from latent fingermarks (Kwok et al., 2023). 
+Fingerprint enhancement techniques were assessed for their impact on 
+forensic DNA recovery (Li et al., 2025). An optical sensor based on 
+aggregation-induced emission was used to visualize fingerprints on 
+porous objects with minimal DNA destruction (Liang et al., 2023). A 
+fluorescence metal-organic framework was developed for enhanced 
+latent fingermark development that is minimally destructive to DNA 
+(Liang et al., 2024). Chemical and biological warfare agent decontami-
+nants were shown to impact DNA profiling from blood and saliva 
+(Radgen-Morvant et al., 2024). Two methods for recovering fingerprint 
+DNA from adhesive tapes were compared (Silvia et al., 2023). An opti-
+mized workflow was described for obtaining STR results from archived 
+latent fingerprints (Solomon 2023). A multidisciplinary exercise by 
+ENFSI analyzed an alleged improvised explosive device (Zampa et al., 
+2025). Recent advances in enhancement techniques for fingerprints left 
+in blood were reviewed (Zhang & Peng 2023).
+DNA Stability and Storage. Studies have investigated how envi-
+ronmental factors and storage conditions affect DNA integrity. Exposure 
+to gamma rays was shown to impact DNA quality and genetic traits in 
+human blood samples (Ajlouni et al., 2024). A method using tendons 
+and table salt was proposed for preserving human DNA (Birne et al.,
+2024). Vitreous humour was identified as a potential source of DNA for 
+postmortem identification (ˇCanovi´c et al., 2024). The effects of freezing,
+thawing, and long-term storage on forensic DNA extracts were reported 
+(Forsberg et al., 2022). Degradation of DNA extracts stored under 
+different conditions was analyzed (Gino et al., 2025). A longitudinal 
+assessment compared DNA recovery from post-mortem whole blood 
+stored in various tube types (Grobbelaar et al., 2025). Storage conditions 
+in a museum were compared to fresh excavation for DNA preservation in 
+skeletal remains (Jeromelj et al., 2025). A novel buffer was developed 
+for the long-term preservation of DNA in biological material at room 
+temperature (Kasu et al., 2024). DNA collection from swabs was 
+assessed up to three months after deposition on different cloth materials 
+(Medina-Paz et al., 2024). UV exposure was shown to affect DNA 
+deposited on drug capsules (Nolan & Linacre 2025). Cutting-edge 
+methods for preserving and storing forensic pathology tissue samples 
+were reviewed (Prajapati et al., 2025). Long-term DNA stability on 
+buccal 4N6FLOQSwabs was explored in simulated paternity cases 
+(Rosso & Franzoni 2025). DNA damage was detected in stored blood 
+samples (Schulze Johann et al., 2023). Storage conditions were evalu-
+ated for their effect on DNA from evidence retrieved from lake water 
+(Shahzad et al., 2024). The effect of sunlight on the quality of DNA 
+analysis from bloodstains was investigated (Sliskovic et al., 2024). DNA 
+recovery was demonstrated from human remains submerged in 
+aggressive household chemicals for 28 days (Snedeker et al., 2025). 
+DNA Collection and Sampling Methods. Optimization of sampling 
+techniques is crucial for maximizing DNA recovery. Swabbing technique 
+and duration were shown to affect forensic DNA recovery (Abdullah 
+et al., 2023). Different cotton and nylon swabs were compared for per-
+formance in DNA recovery and storage (Alrahma et al., 2023). Adhesive 
+tape was compared to swabbing for touch DNA collection using a direct 
+PCR approach (Asiri et al., 2025). DNA was isolated from spots on old 
+glass microscope slides (Baersch & Bhatia 2024). The microbial wet-
+vacuum system (M-Vac) was evaluated for sampling from rough, 
+porous substrates (Blackmore et al., 2024). Limitations and challenges of 
+swab-based DNA sampling were reviewed (Bruijns 2024). A cost-benefit 
+analysis supported the use of nylon 4N6FLOQSwabs (Budowle et al.,
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+13 
+
+
+================ PAGE 14 ================
+2022). Operational DNA recovery methods were compared, contrasting 
+swabs versus tapelifts (Burmuzoska et al., 2022). The Pulse Lavage 
+System was compared to forensic wet-vacuum collection (Chaudhry & 
+Kavlick 2023). A holistic approach was proposed for the selection of 
+forensic DNA swabs (Comment et al., 2023). A systematic review eval-
+uated swab materials used in forensic DNA testing (Conte et al., 2025). 
+DNA sampling success was compared from steering wheels and car seats 
+in tropical Australia (Gardiner & Krosch 2023). Three DNA collection 
+methods were compared on Nile Red fluorescent areas of porous sub-
+strates (Hinojosa et al., 2023). Six adhesive tapes were compared for 
+efficient trace DNA recovery without transferring PCR inhibitors 
+(Hymus et al., 2024). Three swabs and three wetting agents were eval-
+uated for collecting DNA from non-porous surfaces (Krosch et al., 2025). 
+DNA recovery from mini tapes was achieved using a simple extraction 
+buffer and solid-phase reversible immobilization (SPRI) purification 
+(Kuffel et al., 2024a). The impact of swabbing solutions on recovery 
+from non-porous surfaces was assessed (Kuffel et al., 2024b). An appli-
+cator prototype was tested to facilitate forensic DNA recovery by tape-
+lifting (Meakin et al., 2024). "Total Human DNA Sampling" was 
+introduced for obtaining profiles from large areas (Neves & Zieger 
+2023). Cell counting was used to monitor swab efficiency (Nolan & 
+Linacre 2024). Adding salmon sperm DNA was shown to increase sample 
+recovery of human DNA from cotton swabs (Oechsle et al., 2024). 
+Updated recommendations were provided for collecting biological 
+samples in cases of sexual violence (Pelotti et al., 2025). An alternative 
+DNA recovery approach, the DNA-Buster, was evaluated (W¨ ahrer et al., 
+2023).
+Trace DNA/” Touch DNA” . Trace DNA analysis has focused on 
+specific deposition scenarios and detection methods. Touch DNA success 
+rates were investigated in vehicle sites for hit-and-run casework 
+(Aidarous et al., 2025). Collection techniques were assessed for touch 
+DNA on human skin following strangulation (Alketbi 2023). Enhance-
+ments were proposed for trace DNA recovery from disposable face masks 
+(Alketbi & Goodwin 2025). Extraction and direct amplification methods 
+were compared for touch DNA profiling (Alketbi et al., 2025). A cyto-
+chemical labeling technique was used for the in situ detection of cell-
+derived markers in invisible traces (Bastat et al., 2025). The impact of 
+alcohol-based hand sanitizer on touch DNA was evaluated (Bini et al., 
+2023). Trace DNA recovery was explored from titania-coated self-
+cleaning substrates (Bonsu et al., 2023). The forensic significance of 
+touch DNA was discussed (Devika et al., 2024). A modified lysis buffer 
+and chitosan-coated magnetic beads were used to extract DNA from 
+trace samples (Hu et al., 2023). Detection and analysis of latent DNA 
+were reviewed (Linacre & Petcharoen 2022, Linacre 2024). Probative 
+levels of touch DNA on tapelifts were predicted using Diamond Nucleic 
+Acid Dye (Madden et al., 2024). The potential utility of trace DNA evi-
+dence in forensic investigations was reviewed (Neole 2024). The limit of 
+detection for STR analysis was determined for touch DNA samples 
+(Saamia et al., 2024). Sampling solutions and volumes were evaluated 
+for collecting touch DNA from glass surfaces (Schulte et al., 2023). A 
+commercially available hydrogel was tested as a novel DNA surface 
+sampling tool (Sekowski et al., 2023). Touch DNA success rates were 
+monitored in cases of volume crime in a German police lab (S¨ ochtig
+et al., 2025). Precision sampling on plastic bag knots improved profiling 
+of packer and holder contributions (Stefanovi´c et al., 2024). 
+Recovering DNA from Fingernails and Other Substrates. Recov-
+ery methods have been optimized for challenging substrates. The effect 
+of lip cosmetics on human STR profiling was investigated (Abboosh 
+et al., 2023). Optimized recovery of DNA was achieved from embalmed 
+human cadavers (Afrifah et al., 2023). Recovery of DNA from exhaled 
+breath devices was optimized for human identification (Carrillo & 
+Hughes 2025). DNA was recovered from a shoe upper during an inves-
+tigation based on a bloody footprint impression (Daniel et al., 2023). 
+Face masks were evaluated as forensic DNA evidence (Dash et al., 2023). 
+The Cell Elution Method was evaluated for analyzing smoked cigarettes 
+(Ekka et al., 2024). Approaches for analyzing DNA on illicit drugs were
+described (Griffin et al., 2022, Griffin et al., 2024). Forensic DNA re-
+covery from post-mortem fingernail samples was optimized (Heathfield 
+et al., 2025). The Maxwell RSC Xcelerate Kit was optimized for DNA 
+recovery from formalin-fixed paraffin-embedded (FFPE) tissue (Lisman 
+et al., 2025). Pretreatment methods were examined for DNA extraction 
+from fingernails (Ochiai et al., 2022). STR profiling was performed from 
+histological slides (Po´ or et al., 2022). Coffee cups were analyzed as 
+forensic evidence using STR analysis (Saeed et al., 2023). DNA recovery 
+was assessed from laundered clothing with semen stains washed at 
+different temperatures (Sapan et al., 2023). Factors associated with 
+foreign DNA detection beneath deceased's fingernails were identified 
+(Sripong 2023). Protocols were compared for enhancing profile quality 
+from FTA-deposited urine samples (Srisiri et al., 2022). DNA profiles 
+were obtained from biological trace material on underwear and tooth-
+brushes (Torres-P´erez et al., 2022). The role of fingernails in death 
+investigation was reviewed (Wankhede 2024). A comparative study 
+analyzed DNA samples from under-fingernail materials (Yüksel et al., 
+2025).
+DNA Extraction Methods. Automation and novel chemistries are 
+improving extraction efficiency. Two semi-automated extraction 
+methods, Automate Express and Hamilton Microlab STAR, were 
+compared (Altamimi et al., 2023). Simultaneous extraction of DNA, 
+RNA, and protein was assessed for human remains (Castagnola et al., 
+2025). Strategies were tested to improve DNA analysis of formaldehyde-
+damaged tissues (Czado et al., 2023). Toxicological screening was per-
+formed on waste residues from DNA extraction processes (Di Candia 
+et al., 2024). Commercial direct DNA extraction kits were assessed 
+(Hymus et al., 2025). A new kit was designed for extracting DNA from 
+blood samples (Jarallah et al., 2023). Binding buffer composition was 
+optimized for magnetic bead extraction (Khan et al., 2024), and an iron 
+oxide nanoparticle-based method was evaluated (Khan & Kaushik 2025, 
+Khan et al., 2025). A protocol was optimized for extracting DNA from 
+fingerprints (Loarce et al., 2025). Sample throughput was improved 
+using the PrepFiler kit on a robotic workstation (O'Rourke et al., 2024). 
+Successive DNA extractions from swabs were evaluated (Pickell et al., 
+2025). Nucleic acid purification was achieved through magnetic bead 
+integration with microfluidic chips (Priya et al., 2024). Validation 
+studies were performed on the EZ2 Connect Fx with the EZ1&2 DNA 
+Investigator Kit (Scherer et al., 2022). A microchip was fabricated for 
+DNA capture from blood (Sehgal et al., 2024). Chemical contamination 
+in extracted DNA was shown to affect HLA typing results (Shirizadeh 
+et al., 2025). Non-toxic solvents were proposed for formalin-fixed 
+paraffin-embedded (FFPE) tissue deparaffinization (Soldati et al., 
+2025). The effect of extraction protocols on single-stranded DNA versus 
+double-stranded DNA proportion and integrity was studied (Stoljarova-
+Bibb et al., 2025). Robotic extraction using the Qiagen BioSprint 96 was 
+detailed (Ziencik 2023).
+Differential Extraction. Methods for separating sperm from 
+epithelial cells continue to be refined. A modified differential extraction 
+protocol was used in a sexual assault case (Chaudhary et al., 2024). A 
+protocol for differential extraction with purification was detailed 
+(Forsberg & Ayoub 2023). The MACSprep forensic sperm microbead kit 
+was compared to the Erase Sperm Isolation kit (Grosjean et al., 2023). A 
+modified differential lysis used a combined enzymatic and alkaline 
+approach (Hudson & Dawson Green 2024). Sperm mRNA screening via a 
+reverse transcription-recombinase polymerase amplification (RT-RPA) 
+assay was used for decision-making regarding differential extraction 
+(Kubo et al., 2023). Differential extraction thresholds were utilized to 
+deduce the existence of spermatozoa (Ridgley et al., 2024). An inter-
+laboratory comparison indicated high male DNA recovery using the 
+SpermX method (Sgueglia et al., 2023). An affinity-free centrifugal 
+microfluidic system was proposed for rapid differential extraction 
+(Woolf et al., 2023).
+DNA from Firearms and Fired Cartridge Cases. Maximizing yield 
+from firearms remains a challenge due to DNA degradation and inhibi-
+tion. Genetic profiling was performed from 9 mm fired cartridge cases
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+14 
+
+
+================ PAGE 15 ================
+over 30 days (Alem et al., 2022). The impact of metal ions on forensic 
+DNA analysis was explored (Bonsu et al., 2024). A chelation filtration 
+method improved DNA recovery from fired cartridge casings (Crenshaw 
+et al., 2024). The effects of copper and zinc ions on DNA profiling were 
+compared (Czado et al., 2022), and recovery was evaluated from fired 
+and unfired brass ammunition (Czado et al., 2024). Factors influencing 
+DNA recovery from firearms were reviewed (Kaesler et al., 2023). 
+Storage conditions were shown to impact DNA yield from ammunition 
+cartridges (McElhoe et al., 2023). The proportion of DNA from the 
+owner versus a brief handler of a firearm was examined (Oefelein et al., 
+2023). Relevant sampling areas on firearms were identified for recon-
+structing shooting scenarios (Onofri et al., 2025). Trace DNA recovery 
+rates from firearms were analyzed using casework data (Prasad et al., 
+2023). Three DNA extraction methods were compared for fired and 
+unfired ammunition (da Rocha Marques et al., 2022). The amount of 
+DNA found inside firearm barrels were analyzed relative to muzzle-to-
+target distance (Schyma et al., 2024). The potential for DNA loss dur-
+ing collection and packaging of fired cartridge cases was assessed (Stella 
+et al., 2025). The effects of gunshot residue on STR PCR inhibition were 
+investigated (Westring et al., 2025).
+DNA from Teeth, Bones, and Hair. Protocols for hard tissues have 
+focused on demineralization, automation, and difficult samples. Pres-
+ervation substrates were compared for efficient DNA recovery in bone 
+under field conditions (de Arellano S´ anchez et al., 2023). The role of 
+dental pulp in DNA fingerprinting was reviewed (Bansal & Gaikwad 
+2023). Extraction of DNA from human teeth was optimized using lye 
+under different conditions (Castagnola et al., 2025). Deciduous teeth 
+were used as a reference sample to identify some human remains 
+(Ch´ avez-Briones et al., 2023). Raman spectroscopy and lipid analysis 
+were assessed for decomposed human bones (Corrˆea et al., 2024). 
+Skeletal remains exposed to extreme conditions were typed without 
+pulverization (Della Rocca et al., 2025). Sampling methods in odonto-
+genetics were reviewed (Dineja 2023). A new extraction method was 
+evaluated on bone samples from a WWII mass grave (Di Stefano et al., 
+2024). Automatic extraction from bone was validated for the EZ2 Con-
+nect instrument (Doniec et al., 2024). A case report highlighted the 
+importance of DNA profiling from teeth (Eriksen et al., 2023). Extraction 
+methods for human hard tissue were systematically reviewed 
+(Finaughty et al., 2023). Patellae were identified as a valuable source of 
+DNA (Gerˇsak et al., 2025). Alternative high DNA-yielding bone types 
+were searched for in aged skeletal remains (Golob et al., 2024). Five 
+DNA extraction methods were compared for degraded skeletal remains 
+(Haark¨ otter et al., 2023a), and petrous bone/tooth were compared to 
+femur/tibia (Haark¨ otter et al., 2023b). Bone extraction through 
+demineralization was detailed (Iorio & Cooley 2023), while another 
+study explored recovery without demineralization (Iyavoo & Goodwin 
+2022). Environmental factors affecting DNA preservation in petrous 
+bones were compared (Kravanja et al., 2025). DNA preservation was 
+compared between permanent and deciduous teeth (Leskovar & Pajniˇc 
+2023), and between petrous bones and metacarpal epiphyses (Leskovar 
+et al., 2024). Nuclear SNP profiles were derived from human hair shafts 
+(Lewis et al., 2022). Dental calculus was analyzed for its evidential value 
+(Lisman et al., 2023). Enhanced ancient DNA extraction was applied to 
+human remains for capillary electrophoresis (CE) analysis (Liu et al., 
+2025). DNA and protein analyses of hair were reviewed (Liu et al., 
+2023). Quantitative color analysis of burned bone was used to predict 
+DNA quality (Macias et al., 2024). DNA recovery was assessed from 
+teeth in a semi-natural marine environment (Malana et al., 2025). 
+Optimal skeletal elements for DNA testing in routine practice were 
+evaluated (Otagiri et al., 2024). Extraction methods were compared for 
+telogen hair samples (Petersen et al., 2025). Diagnostic models pre-
+dicted DNA recovery from incinerated teeth (Rahmat et al., 2023). Low-
+cost bone and teeth processing methods were evaluated for automated 
+extraction (Rancourt et al., 2023). Advancements in extracting genetic 
+material from hard tissues were reviewed (Rehman et al., 2025). Factors 
+affecting DNA degradation in teeth were reviewed (Salazar et al., 2025a)
+and studied under extreme ante-mortem conditions (Salazar et al., 
+2025b). DNA recovery was determined from teeth exposed to acids 
+(Sapan & Karabo˘ ga 2025). The InnoXtract method was validated for 
+bone, teeth, and rootless hair (Sinha et al., 2023) and optimized for 
+skeletal samples (Snedeker et al., 2023). Downstream processing 
+methods were investigated for challenging skeletal samples (Snedeker 
+et al., 2025). A protocol without liquid nitrogen was developed for bones 
+and teeth (Stan et al., 2024). Bead-beating homogenization was used for 
+burnt bone and teeth (Varrathyarom et al., 2022). Dental pulp and 
+cementum were compared for identification (Wei et al., 2023). A 
+temperature-driven method was assessed for efficiency in human re-
+mains (Zapico et al., 2024). An automated extraction method was 
+developed for small quantities of bone powder (Zupaniˇc Pajniˇc et al., 
+2023).
+DNA Quantitation and Degradation Assessment. Accurate quan-
+titation and degradation assessment are critical for downstream success. 
+A book chapter covered DNA quantitation methodologies (Abuidrees & 
+Hadi 2025). An emission-based probe was developed for detecting and 
+quantifying DNA and RNA (Adak et al., 2024). A framework was pro-
+posed for qPCR modeling of low copy number samples (Asogawa 2022). 
+Simultaneous quantification of human, dog, and cat DNA was advanced 
+(Bae et al., 2025). The Investigator Quantiplex Pro RGQ Kit was assessed 
+at half volumes (Barbaro et al., 2025). DNA degradation implications in 
+forensic casework were reviewed (Bhoyar et al., 2024). Tin contami-
+nation was found to cause qPCR overestimation (Bonsu et al., 2023). 
+DNA profiles were degraded to specific levels using UV exposure (Cabral 
+de Almada et al., 2024). Differential amplification efficiency was used to 
+assess DNA degradation (Chierto et al., 2024). Optimal STR profile setup 
+was predicted from Quantifiler Trio data (Dupont et al., 2022). A pro-
+tocol for DNA degradation in genetic applications was published (Ewers 
+& Parson 2025). A custom qPCR assay was designed to simultaneously 
+quantify human and microbial DNA (Foster et al., 2024). Reverse tran-
+scription yield was evaluated using droplet digital PCR (Gao et al., 
+2024). Genomic multicopy loci targeted by current assays were exam-
+ined (J¨ ager 2024). Total human DNA was quantified in sexual assault 
+mixture samples to estimate whether a sample was likely to yield an 
+autosomal- or Y-STR profile (Llamocca et al., 2025). DNA was quantified 
+in dried blood and saliva-tinged blood compared to fresh blood (Man-
+junathan et al., 2024). A multiplex qPCR assay was validated for 
+simultaneous nuclear and mitochondrial DNA quantification (Mel-
+chionda et al., 2025). Performance parameters were established for the 
+Qubit 1X dsDNA HS Assay (Naidoo et al., 2025). Calculating mito-
+chondrial DNA quantity from nuclear qPCR results was compared to 
+direct measurement in aged bones (Obal et al., 2023). The usefulness of 
+qPCR data for sample pre-assessment was discussed (Onofri et al., 2024). 
+Real-time PCR quantification was examined in detail (Ricci et al., 2024). 
+DNA concentration and purity were assessed on dental floss (Rizky et al., 
+2025). Limitations of the Quantifiler Trio-HRM assay for mixture iden-
+tification were assessed (Smith et al., 2024). High-resolution melt curve 
+assays were integrated into commercial quantification kits (Smith et al., 
+2025). Human DNA quantification was evaluated for predicting 
+profiling success in historical bone (Thomas et al., 2023). A Quantifiler 
+Trio-based HRM screening assay was used for accurate single source 
+versus mixed prediction (Torres et al., 2023). The NuMY qPCR assay was 
+developed to simultaneously target human autosomal, Y-chromosomal, 
+and mitochondrial DNA (Xavier et al., 2023).
+Direct PCR Amplification and PCR Improvements. Direct ampli-
+fication and PCR enhancements are streamlining workflows. The 
+Amplicon RX post-PCR clean-up kit was used to enhance trace DNA 
+recovery (Aljanahi et al., 2025). Direct STR amplification was performed 
+on human foetal tissues using FTA cards (Ani et al., 2024). Primerless 
+PCR was explored for rescuing highly degraded DNA (Ashankyty 2023). 
+Nicking endonuclease dependent amplification was developed for trace 
+DNA (Bi 2025). An Ampliseq microhaplotype panel was adapted to 
+nanopore sequencing through direct PCR (Casanova-Ad´ an et al., 2023). 
+The PCR inhibitory effect of hair dye constituents was assessed (Dash
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+15 
+

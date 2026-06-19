@@ -1,0 +1,270 @@
+
+================ PAGE 10 ================
+reported (D'Amato et al., 2024) as were some ethical issues with next-
+generation sequencing (NGS) technology (DeAngelo & Elkins 2023). A 
+contextual integrity approach was applied to genomic information (de 
+Groot 2024). The importance of consent forms in creating DNA data-
+bases was emphasized (Jankova et al., 2022). The governance of inter-
+national genomics collaborations was reviewed (Joly 2024). Ethical 
+considerations for DNA profiling in India were compared with interna-
+tional guidelines (Khan & Mer 2024). Genetic privacy in the age of 
+consumer applications was examined (Krimsky 2023). Individual pri-
+vacy and the reporting of biological sex were discussed (Lynch et al., 
+2025). Biometric forensic identity databases in Europe were analyzed 
+regarding privacy and criminal processes (McCartney et al., 2023). 
+Lessons learned about consenting families for DNA banking were re-
+ported from the Sudden Unexpected Infant Death and Sudden Death in 
+the Young Case Registry (MacLeod et al., 2024). The ethical implications 
+of testing DNA found on privately owned family artifacts were explored 
+(McKibbin et al., 2023). The role of managerialism in Irish DNA data-
+base policy was deconstructed (O'Connell 2025). Legislative provisions 
+balancing rights and scientific advancement were reviewed (Oosthuizen 
+et al., 2023). Comparisons of forensic procedure legislation across 
+Australian jurisdictions were conducted (Oosthuizen et al., 2024). The 
+precarious future of consumer genetic privacy was highlighted (Ram 
+et al., 2025). U.S. DNA testing policies in the context of family immi-
+gration were reviewed (Sandhu 2025), and the legal conundrum of DNA 
+profiling adoption in India was analyzed (Sankar 2024).
+Ethical, legal, and social implications (ELSI) of forensic genetic in-
+vestigations were broadly reviewed (Sessa et al., 2025). The IndiGen 
+project's application in Indian criminal law was discussed (Sharma & 
+Bhardwaj 2023). Ethical forensic practice in research on biomaterials 
+was promoted (Smith & Horne 2024). The regulation of massively 
+parallel sequencing was examined (Smith & Miller 2024). Ethical con-
+siderations of CRISPR-Cas technology in forensics were reviewed 
+(Sobral et al., 2025). Legal and ethical issues of gene technology in 
+criminal proceedings were discussed (Sun & Zhang 2023). The emer-
+gence of "carceral human rights" in South Africa was discussed (Tam-
+arkin 2025). A volume addressed the law, practice, and politics of 
+forensic DNA profiling (Toom et al., 2023). A call was made to agree on 
+international governance principles for forensic DNA databases (Uberoi 
+et al., 2024). "Noble cause casuistry" in forensic genetics was critiqued 
+(Wienroth & McCartney 2024) as was the new "Forensic Genetics 
+Assemblage" and its boundary-dissolving nature (Wienroth & Granja 
+2024). Biometric surveillance and the policing of the "crimmigrant 
+other" were discussed (Wienroth & Amelung 2023). A reference data-
+base for populations in Burkina Faso was established (Zeye et al., 2024). 
+Ethical reflections on secondary research using criminal investigation 
+data were presented (Zieger & Scudder 2025), along with discussions on 
+dealing with incidental findings (Zieger 2025).
+3.3. Forensic investigative genetic genealogy
+In recent years when national DNA databases fail to generate a lead 
+to a potential person of interest, law enforcement agencies have started 
+to utilize the capabilities of investigative genetic genealogy (IGG), also 
+called forensic genetic genealogy (FGG), forensic investigative genetic 
+genealogy (FIGG) or even investigative forensic genetic genealogy 
+(iFGG) (Tuazon et al., 2024), as an approach to locate potential persons 
+of interest in criminal or missing persons cases.
+Books, Review Articles, and Guidance. The ANZPAA NIFS 
+released principles for the application of FIGG (ANZPAA NIFS 2024), 
+while the National Academies published workshop proceedings on law 
+enforcement use of this technology (Committee on Law and Justice 
+2024). A guide was published to aid genealogical research using auto-
+somal and lineage marker information (Estes 2024). Notices of action 
+called for standards and certification in investigative genetic genealogy 
+(Gurney et al., 2022, Gurney et al., 2023). Practical guides and case 
+studies illustrated the "forensic revolution," including works on solving
+cold cases (Lefemine 2024, Rogers 2025) and a memoir on identifying 
+the Golden State Killer (Rae-Venter 2023). Textbooks covered the theory 
+and practice of forensic genealogy (Ramage & Desmarais 2025) and the 
+application of next-generation sequencing (NGS) to cold cases (Smir-
+nova & Elkins 2023). The nomenclature and definition of law enforce-
+ment use of genetic genealogy databases were clarified (Tuazon et al.,
+2024) and reviews highlighted how FIGG is expanding pedigree tracing 
+(Wang et al., 2025) and the challenges involved (Yadav & Sharma 
+2023). The National Technology Validation and Implementation 
+Collaborative (NTVIC) released and updated guidelines for establishing 
+FIGG programs (Wickenheiser et al., 2023a, Wickenheiser et al. 2023b, 
+Wickenheiser et al. 2025).
+Public Perceptions and Trust of FIGG. The commercial dynamics 
+of direct-to-consumer testing and law enforcement cooperation were 
+examined (Bakken & Kaufmann 2025). Conferences addressed the 
+interplay of relationship inference, database accessibility, and ethical 
+concerns (Chauhan & Kumar 2024). Public perspectives on "opting in or 
+out" of forensic kinship investigations were surveyed (Claerhout et al., 
+2024). Ethical considerations of familial searching were discussed 
+within Canadian legislation (Clausius et al., 2023). National focus group 
+studies and surveys in the U.S. assessed public trust (Dahlquist et al.,
+2025) and perspectives (Dahlquist et al., 2024). Citizen science was 
+positioned as the root and future of forensic genetic genealogy (Granja 
+2023). A five-year update on U.S. public perspectives showed continued 
+evolution in opinion (Guerrini et al., 2025). Social media insights were 
+analyzed to gauge public sentiment (Huston et al., 2024). Public trust in 
+forensic science was assessed by surveying 1342 individuals in Israel and 
+was found to be related to trust in science and also trust in the police 
+(Kaplan-Damary et al., 2025). The investigative and policy impacts of 
+FIGG on identifying human remains were discussed (Lasyone et al., 
+2025). University students were surveyed regarding police use of genetic 
+genealogy databases (Marlor et al., 2025). The legitimacy of FIGG was 
+analyzed under Article 8 of the European Convention on Human Rights 
+(Tuazon et al., 2025).
+Legislation and Operational Aspects in Various Countries. The 
+present state of FIGG use in criminal cases in Sweden was detailed 
+(Ansell & Aili Fagerholm 2024), alongside specific use cases (Ansell & 
+Fagerholm 2025a) and legislative discussions (Ansell & Fagerholm 
+2025b). Perspectives on the use of FIGG in Brazil were shared (Bonamin 
+et al., 2022). The non-consensual collection and analysis of DNA was 
+identified as a “ legal lacuna”  (i.e., a deficiency or gap in the law) in 
+Australia (Shackel et al., 2025). The operationalization of the National 
+DNA Program for Unidentified and Missing Persons demonstrated 
+capability for human remains identification in Australia (Ward et al., 
+2024).
+Examples of FIGG Cases Solved. Three cold cases in Norway were 
+solved using FIGG (Aanes et al., 2025). The technique was successfully 
+applied to unidentified human remains cases in Oregon (Greytak et al., 
+2022) and broader human remains identification efforts (Greytak et al., 
+2024). Use of FIGG in the November 2022 Idaho student homicide 
+investigation was discussed as a pivotal moment for the field (Novroski 
+2023). An interview highlighted the pioneering use of FIGG by the 
+Toronto Police Service (Novroski 2024).
+Privacy Concerns and Database Representation. The effect of 
+increased Latin American representation in databases for identifying 
+remains was analyzed (Binder & Gurney 2024). A genetic portal for 
+crime solvers was launched (Brainard 2023). Privacy prioritization and 
+supportable hypothesis testing were advocated for (Budowle et al., 
+2024). Legal protections for accessing third-party research databases 
+were examined (Chan et al., 2024). The case for "social privacy" in 
+commercial genetic information was made (de Groot 2023). Private 
+detection of relatives using homomorphic encryption was proposed (de 
+Souza et al., 2024). The decline of 23andMe was analyzed for its im-
+plications on consumer genomics (Erlich & Zielinski 2025). Editorial 
+commentary focused on fine-scale population structure (Guanglin et al., 
+2023). The privacy-performance tradeoff of reference testing was
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+10 
+
+
+================ PAGE 11 ================
+modeled (Hu & Wein 2024). Legal bases for using data "manifestly made 
+public" were critically examined in Europe (Kuru 2025). Balancing 
+crime-solving with genetic privacy was explored (McGuire et al., 2023), 
+alongside the convergence of genealogy and molecular diagnostics 
+(Newsham 2024). Digital forensics was suggested as a support tool for 
+addressing legal challenges (Nogel 2024). Australian privacy law was 
+analyzed regarding offshore direct-to-consumer genetic data (Shackel & 
+Smith 2025).
+Technology Used and Validation Studies Performed. A molecular 
+framework was proposed for enhancing quality control in forensic 
+genome sequencing (Bates et al., 2025). A cost-benefit analysis sup-
+ported the use of large SNP panels and high-throughput typing (Budowle 
+et al., 2023), asserting genomics will reshape forensic science (Budowle 
+et al., 2025). Whole-genome sequencing methods were explored for 
+degraded DNA (Cady & Greytak 2022). The establishment of the FIGG 
+Technology Validation Working Group was announced (Gamette & 
+Wickenheiser 2023). Algorithms for inferring distant relationships from 
+dense SNP data were improved (Lin et al., 2024), revolutionizing source 
+attribution certainty (Mandape et al., 2024). Workflows like MixDeR 
+were developed to enable FIGG investigations from DNA mixtures 
+(Mitchell et al., 2022, Mitchell et al., 2025). Computational approaches 
+allowed for identification from low-coverage shotgun sequencing data 
+(Nguyen et al., 2023). Advanced relationship predictions were achieved 
+with tools like Orogen (Nicholson 2022). The three main SNP chemis-
+tries used in forensic genetics were compared (Novroski 2025). Methods 
+for generating profiles over seven years were assessed (Oefelein 2022). 
+Forensic likelihood ratios were derived from low-coverage sequencing 
+(Ouerghi et al., 2025). Forensic investigation approaches were reviewed 
+(Padmanabhan & Sapna 2023). Imputation studies (Tillmar & Kling
+2024) and comparative studies of statistical approaches (Tillmar & Kling
+2025) refined distant relationship inference. Benchtop-scale sequencing 
+was shown to identify distant relatives (Woerner et al., 2024). Micro-
+array analysis tools without normalization were developed for degraded 
+DNA (Yagasaki et al., 2023).
+Kintelligence Kit. Developmental validation of the ForenSeq Kin-
+telligence kit was completed (Antunes et al., 2024). Considerations for 
+multiplexing libraries with negative controls were evaluated (Bali et al., 
+2024). A multi-generational study demonstrated the kit's efficacy in 
+kinship analysis (Daniel et al., 2024), and outcomes were compared with 
+the Infinium Global Screening Array (Hymus et al., 2024). Internal 
+validation for FIGG application was performed (Peck et al., 2022). The 
+kit was operationalized for Australian unidentified and missing persons 
+casework (Watson et al., 2024) and evaluated against other panels 
+(Watson et al., 2025).
+3.4. Forensic biology and body fluid identification
+Workflows with forensic examinations of biological evidence typi-
+cally involve a visual examination of the evidence, a presumptive and/or 
+confirmatory test for a suspected body fluid (e.g., the amylase assay for 
+saliva), and DNA analysis and interpretation. Body fluid identification 
+(BFID), in particular blood, saliva, semen, or vaginal fluid stains, pro-
+vides valuable evidence in many investigations and can aid in the res-
+olution of a crime.
+Books, Review Articles, and Guidance. The ANZPAA NIFS 
+released principles for reporting forensic biology evidence (ANZPAA 
+NIFS 2024). New books discussing advances in forensic biology and 
+serology were published (Puri et al., 2024, Barbaro & Mishra 2025, Tobe
+2025) along with the third edition of a previously published textbook (Li 
+2025). Several reviews and book chapters discussed lateral flow assays 
+(Bruijns et al., 2023), immunochromatographic blood detection (Cuttaia 
+et al., 2024), NGS-based body fluid detection (Dash 2023), evaluation of 
+body fluid evidence (Crawford & Jarman 2024), and general forensic 
+biology (Kushwaha et al., 2023).
+Forensic Biology and Body Fluid Identification (General). 
+Research has focused on improving the detection and characterization of
+biological stains on various substrates. Pilot studies demonstrated the 
+detection of blood, semen, and saliva on the underside of fabric to which 
+it was deposited (Beveridge et al., 2024). Raman hyperspectral imaging 
+characterized bio-fluid spots on cotton (Castellino et al., 2025). Micro-
+bial influence on ABO typing discrepancies was explored (Chakraborti & 
+Ghosh 2024). A rapid ABO genotyping method using loop-mediated 
+isothermal amplification (LAMP) was developed (Choi et al., 2024). 
+Validation studies for molecular identification methodologies were 
+conducted (Dias et al., 2022). RNA expression was investigated for cases 
+of head trauma in an attempt to detect which part of the brain had been 
+injured (Euteneuer et al., 2022). Combined DNA and mRNA analysis was 
+applied in casework (Fagerholm et al., 2025). A sequencing assay 
+incorporating coding region SNPs was developed (Jiang et al., 2025). 
+The sensitivity of presumptive tests was evaluated (Idris & Goodwin 
+2022). Advanced molecular technologies characterized challenging 
+traces (Larnane et al., 2025). Mitochondrial DNA copy number was 
+proposed for distinguishing common body fluids or tissues (Li et al., 
+2024). Fabric composition's impact on visualization was assessed (Lis-
+man et al., 2025). Stability of DNA and mRNA under different storage 
+conditions was tested on saliva and vaginal swabs (Moore et al., 2025). A 
+“ reverse”  workflow identified body fluids after DNA analysis (Porto 
+et al., 2025). Microfluidic devices were developed for body fluid ex-
+amination (Shukla et al., 2023). DNA content was quantified in various 
+body fluids (Siuta et al., 2024). Handheld near-infrared spectroscopy 
+was investigated for detection of blood, semen, and saliva stains (Varela 
+Morillas & Frascione 2025). Raman spectroscopy of urine was explored 
+as a possible method to distinguish individuals with different ancestral 
+backgrounds (Vyas et al., 2024). Fabric and weather impact on body 
+fluid identification were assessed (Zapico et al., 2022, Zapico et al., 
+2024).
+Bloodstains (Including Menstrual Blood). Hyperspectral imaging 
+enhanced blood detection (Al-Alimi & Al-qaness 2025). STR profiles 
+were detected from degrading menstrual blood (Al-Hazani et al., 2023). 
+ATR-FTIR spectroscopy was reviewed for bloodstain analysis (Al-Hetlani 
+et al., 2025). D-dimer detection identified postmortem blood (Brodeur 
+et al., 2025). Optical biosensors and aptamers were developed for 
+human blood (Costanzo et al., 2024a, Costanzo et al., 2024b). Thermal 
+exposure effects on DNA typing were researched (Di et al., 2025). A 4-
+plex methyl-sensitive restriction enzyme (MSRE)-PCR system identi-
+fied menstrual blood (Hsu et al., 2025). Environmental insults on pre-
+sumptive tests were evaluated (Idris & Goodwin 2025). Sensitivity of 
+presumptive tests for swabbed stains was evaluated (Jaremko et al., 
+2024). Differentiation between knife wound and nosebleed blood was 
+investigated (Konrad et al., 2023). A panel based on blood-specific CpG-
+linked SNP markers was developed (Li et al., 2024). Bayesian analysis 
+was applied to bloodstain patterns (Meijrink et al., 2023). Insect ex-
+cretions' effect on DNA quality was studied (Murphy et al., 2024). After 
+stepping in fresh blood and then walking across various substrates 
+including concrete, linoleum, and carpet, the amount and distribution of 
+visible blood and chemiluminescence coming from the latent shoeprint 
+bloodstains were documented along with performing DNA testing to 
+show that DNA results were obtained past the point of visualization with 
+luminol (Taylor et al., 2024). A fluorescent dye method was introduced 
+for blood detection (Vajpayee et al., 2023).
+Saliva Stains. DNA methylation markers were identified in buccal 
+samples (Balamurugan et al., 2025). A multiplex PCR system was 
+developed for salivary identification (Liang et al., 2023). Biomarker 
+analysis was used to estimate saliva deposition methods (Ohta et al., 
+2023). Deep ultraviolet Raman spectroscopy detected oral fluid on 
+fabric (Weber et al., 2025).
+Semen Stains. Prostate-specific antigen (PSA) and Semenogelin 
+tests were evaluated for effectiveness (Aler et al., 2025). Novel mRNA 
+semen-specific markers were validated (Borges et al., 2025). A colori-
+metric sensor detected trace zinc in seminal fluid (de Oliveira S. Silva 
+et al., 2025). A reverse transcription droplet digital PCR (RT-ddPCR) 
+assay simultaneously identified saliva and semen (Lee et al., 2024). PSA
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+11 
+

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מערכת סקירות מז"פ - דוח אינטרפול</title>
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔬</text></svg>">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Premium Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Main Style -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="theme-dna dark-mode">
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="fa-solid fa-dna logo-icon"></i>
+                    <div class="logo-text">
+                        <span class="logo-title">FORENSIC</span>
+                        <span class="logo-subtitle">מז"פ אינטליגנציה</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Category Switcher -->
+            <div class="nav-section">
+                <h3 class="nav-section-title">קטגוריות ראשיות</h3>
+                <nav class="category-nav">
+                    <button class="category-btn active" id="btn-cat-dna" onclick="switchCategory('dna')">
+                        <i class="fa-solid fa-helix icon-category"></i>
+                        <span>דנ"א וביולוגיה</span>
+                    </button>
+                    <button class="category-btn" id="btn-cat-fm" onclick="switchCategory('fingermarks')">
+                        <i class="fa-solid fa-fingerprint icon-category"></i>
+                        <span>טביעות אצבע</span>
+                    </button>
+                </nav>
+            </div>
+
+            <!-- Chapter Navigation -->
+            <div class="nav-section" id="chapter-nav-section">
+                <h3 class="nav-section-title">פרקי הסקירה</h3>
+                <ul class="chapter-list-nav" id="sidebar-chapters">
+                    <!-- Dynamic Chapter Links -->
+                </ul>
+            </div>
+
+            <!-- Bookmarks Panel -->
+            <div class="nav-section">
+                <h3 class="nav-section-title">סימניות ונעוצים <span class="badge" id="bookmark-count">0</span></h3>
+                <ul class="bookmark-list" id="sidebar-bookmarks">
+                    <li class="empty-state-text">אין פרקים שמורים</li>
+                </ul>
+            </div>
+
+            <!-- Quick Access Glossary -->
+            <div class="nav-section">
+                <button class="glossary-toggle-btn" id="btn-glossary-view" onclick="toggleGlossaryView()">
+                    <i class="fa-solid fa-book-open"></i>
+                    <span>מילון מונחים (מילון)</span>
+                </button>
+            </div>
+
+            <!-- Theme Toggle & Version -->
+            <div class="sidebar-footer">
+                <button class="theme-toggle" onclick="toggleTheme()" title="החלף מצב תצוגה">
+                    <i class="fa-solid fa-sun icon-light"></i>
+                    <i class="fa-solid fa-moon icon-dark"></i>
+                    <span id="theme-text">מצב בהיר</span>
+                </button>
+                <div class="app-version">דוח אינטרפול 2021-2025 v1.0</div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header bar -->
+            <header class="header glass-panel">
+                <div class="header-search">
+                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    <input type="text" id="global-search" placeholder="חיפוש חופשי בסקירות, בהרחבות ובמילון..." oninput="handleGlobalSearch()">
+                    <button class="clear-search-btn" id="clear-search" onclick="clearGlobalSearch()" style="display: none;">
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                </div>
+                
+                <div class="header-controls">
+                    <!-- Global Content Mode Switcher -->
+                    <div class="global-mode-switch">
+                        <span class="mode-label">תצוגת תוכן:</span>
+                        <div class="toggle-group">
+                            <button class="toggle-btn active" id="btn-mode-summary" onclick="setGlobalMode('summary')">
+                                <i class="fa-solid fa-align-right"></i> תקציר
+                            </button>
+                            <button class="toggle-btn" id="btn-mode-extended" onclick="setGlobalMode('extended')">
+                                <i class="fa-solid fa-paragraph"></i> הרחבה
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Content Area Container -->
+            <div class="content-viewport">
+                <!-- Search Results Bar (Dynamic) -->
+                <div class="search-status-bar glass-card" id="search-status" style="display: none;">
+                    <div class="search-status-text" id="search-status-text"></div>
+                    <button class="close-search-status" onclick="clearGlobalSearch()">ביטול חיפוש</button>
+                </div>
+
+                <!-- Main Chapters List -->
+                <section class="chapters-view active-view" id="chapters-section">
+                    <!-- Active Category Banner -->
+                    <div class="category-banner glass-card">
+                        <div class="banner-content">
+                            <h1 id="banner-title">דנ"א וביולוגיה פורנזית</h1>
+                            <p id="banner-description">סקירה מקיפה של התפתחויות מדעיות, שיטות הפקה, כלי תקינה וטכנולוגיות MPS/FIGG חדישות.</p>
+                        </div>
+                        <div class="banner-decor">
+                            <i class="fa-solid fa-helix banner-icon" id="banner-icon-bg"></i>
+                        </div>
+                    </div>
+
+                    <!-- Chapters Grid -->
+                    <div class="chapters-grid" id="chapters-container">
+                        <!-- Dynamic Chapters Rendered here -->
+                    </div>
+                </section>
+
+                <!-- Full Glossary View (Hidden by default) -->
+                <section class="glossary-view" id="glossary-section" style="display: none;">
+                    <div class="section-title-bar">
+                        <div class="title-wrap">
+                            <h2>מילון מונחים פורנזי</h2>
+                            <p>מונחים מקצועיים באנגלית ועברית, הגדרות והפניות לפרקי המקור בדוח.</p>
+                        </div>
+                        <button class="back-to-chapters" onclick="hideGlossaryView()">
+                            <i class="fa-solid fa-arrow-left"></i> חזרה לסקירה
+                        </button>
+                    </div>
+
+                    <!-- Glossary Search & Filter -->
+                    <div class="glossary-filter-bar glass-card">
+                        <div class="glossary-search">
+                            <i class="fa-solid fa-filter"></i>
+                            <input type="text" id="glossary-search-input" placeholder="סינון מונחים לפי אנגלית, עברית או הגדרה..." oninput="handleGlossarySearch()">
+                        </div>
+                        <div class="glossary-alphabet" id="glossary-letters">
+                            <!-- A-Z / א-ת filters -->
+                        </div>
+                    </div>
+
+                    <!-- Glossary Grid -->
+                    <div class="glossary-grid" id="glossary-container">
+                        <!-- Dynamic Glossary terms rendered here -->
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <!-- Script loading -->
+    <script src="app.js"></script>
+</body>
+</html>

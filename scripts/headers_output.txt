@@ -1,0 +1,388 @@
+
+--- Page 1 ---
+  National Institute of Standards and Technology, Special Programs Office, 100 Bureau Drive, Mail Stop 6021, Gaithersburg, MD, USA
+  enforcement DNA databases and ethics; forensic investigative genetic genealogy (FIGG); forensic biology and
+  body fluid identification; DNA processing; DNA typing with short tandem repeat (STR) markers; DNA inter-
+  pretation at the source or sub-source level of the hierarchy of propositions along with mixture interpretation
+  cation and kinship analysis; next-generation sequencing (NGS) and technology developments; forensic DNA
+  1. Introduction
+
+--- Page 2 ---
+  1. Forensic Science International: Genetics (250)
+  2. International Journal of Legal Medicine (110)
+  3. Forensic Science International (98)
+  4. Journal of Forensic Sciences (78)
+  5. Genes (70)
+  6. Electrophoresis (48)
+  7. Australian Journal of Forensic Sciences (41)
+  8. Forensic Genomics (40)
+  9. Science & Justice (39)
+  1.1. A curated reference list sorted by categories
+  phenotyping, and forensic investigative genetic genealogy [3] that was
+  1.2. Exploration and use of AI tools
+
+--- Page 3 ---
+  was reported for sequencing the whole mitochondrial DNA of domestic dogs
+  gene-amplicon sequencing for analyzing the bacterial community on canine
+  AI prompt, the reference for a whole mitochondrial DNA sequencing
+  2. General resources
+  2.1. Books and major reports
+  these books describe efforts using investigative genetic genealogy. At the
+  bottom of Table 1, two National Institute of Standards and Technology
+  pretation, and statistical aspects of DNA mixture interpretation.
+  2.2. Special issues of journals
+  2.3. Key conferences and published proceedings
+  Next Generation Sequencing (NGS)
+  An Introduction to Forensic Genetics for
+  Genealogy: Solving the Unsolvable
+  Forensic Genealogy: Theory & Practice
+  Investigative Genetic Genealogy (self-
+  Investigative Genetic Genealogy
+
+--- Page 4 ---
+  summary of discussions that included some remarks on DNA mixture
+  and AI; and single-cell analysis and microfluidics.
+  Investigative Genetic Genealogy Technologies”  [3] that brought
+  2.4. Guidance documents
+  DNA Mixture Interpretation: A NIST
+  fluid ID
+  5 See https://www.aafs.org/research/annual-conference-proceedings.
+  6 For ISHI Conference Proceedings from 1998 to 2019, see https://www.
+  c-investigative-genetic-genealogy-technologies-a-workshop-public-session.
+
+--- Page 5 ---
+  Standards Institute), ASB (Academy Standards Board), OSAC (Organization of
+  FBI July 2025 Quality Assurance Standards for
+  Standards Audit for Forensic DNA
+  FBI July 2025 Quality Assurance Standards for
+  Standards Audit for DNA Databasing
+  Quality Assurance Standards for
+  Through Research and Standards (50
+  Genealogy (FIGG)
+  Genealogy (FIGG) Programs
+  Genetic Genealogy (FIGG) Programs
+  Investigative Genetic Genealogy –
+  Professional Standards and
+  IGGAB Apr 2025 Investigative Genetic Genealogy –
+
+--- Page 6 ---
+  Quality Assurance Standards (QAS) used to assess U.S. forensic DNA
+  In 2025, SWGDAM started a new Investigation Genetic Genealogy
+  Programs Office within the National Institute of Standards and Tech-
+  UKFSR July 2024 (FSR-G-222) Guidance: DNA Mixture
+  Testing Guidance: DNA Mixture
+  Validation for DNA Mixture
+  Genealogy
+  AABB Jan 2024 Standards for Relationship Testing
+  Standards
+
+--- Page 7 ---
+  The Academy Standards Board (ASB) 16 is a wholly owned subsidiary
+  American National Standards Institute (ANSI). After development,
+  review of DNA mixture interpretation (NISTIR 8351 [26]). In December
+  Guidance to support forensic investigative genetic genealogy efforts
+  forensic investigative genetic genealogy (FIGG) [63], and guidelines for
+  The Investigative Genetic Genealogy Accreditation Board (IGGAB) 21
+  disciplines, including genetic genealogy, bioethics, legal, forensic
+
+--- Page 8 ---
+  principles on applying investigative genetic genealogy [87], reporting
+  Standards Committee and applies to laboratories accredited for pater-
+  3. Advances in current practices
+  3.1. Rapid DNA analysis
+  a book chapter reviewed DNA sequencing and rapid DNA tests within
+
+--- Page 9 ---
+  specific DNA quantitation was demonstrated using a microfluidic
+  3.2. DNA databases and ethics
+  search method for complex mixtures using a quantitative likelihood
+
+--- Page 10 ---
+  generation sequencing (NGS) technology (DeAngelo & Elkins 2023). A
+  parallel sequencing was examined (Smith & Miller 2024). Ethical con-
+  3.3. Forensic investigative genetic genealogy
+  to utilize the capabilities of investigative genetic genealogy (IGG), also
+  called forensic genetic genealogy (FGG), forensic investigative genetic
+  genealogy (FIGG) or even investigative forensic genetic genealogy
+  called for standards and certification in investigative genetic genealogy
+  and practice of forensic genealogy (Ramage & Desmarais 2025) and the
+  application of next-generation sequencing (NGS) to cold cases (Smir-
+  ment use of genetic genealogy databases were clarified (Tuazon et al.,
+  positioned as the root and future of forensic genetic genealogy (Granja
+  genealogy databases (Marlor et al., 2025). The legitimacy of FIGG was
+
+--- Page 11 ---
+  alongside the convergence of genealogy and molecular diagnostics
+  genome sequencing (Bates et al., 2025). A cost-benefit analysis sup-
+  et al., 2025). Whole-genome sequencing methods were explored for
+  were developed to enable FIGG investigations from DNA mixtures
+  allowed for identification from low-coverage shotgun sequencing data
+  Forensic likelihood ratios were derived from low-coverage sequencing
+  2025) refined distant relationship inference. Benchtop-scale sequencing
+  3.4. Forensic biology and body fluid identification
+  confirmatory test for a suspected body fluid (e.g., the amylase assay for
+  saliva), and DNA analysis and interpretation. Body fluid identification
+  (BFID), in particular blood, saliva, semen, or vaginal fluid stains, pro-
+  et al., 2024), NGS-based body fluid detection (Dash 2023), evaluation of
+  body fluid evidence (Crawford & Jarman 2024), and general forensic
+  Forensic Biology and Body Fluid Identification (General).
+  characterized bio-fluid spots on cotton (Castellino et al., 2025). Micro-
+  applied in casework (Fagerholm et al., 2025). A sequencing assay
+  proposed for distinguishing common body fluids or tissues (Li et al.,
+  “ reverse”  workflow identified body fluids after DNA analysis (Porto
+  et al., 2025). Microfluidic devices were developed for body fluid ex-
+  body fluids (Siuta et al., 2024). Handheld near-infrared spectroscopy
+  fluid identification were assessed (Zapico et al., 2022, Zapico et al.,
+  2023). Deep ultraviolet Raman spectroscopy detected oral fluid on
+  metric sensor detected trace zinc in seminal fluid (de Oliveira S. Silva
+
+--- Page 12 ---
+  Using RNA Analysis. RNA sequencing identified individuals from
+  five common body fluids (Chen et al., 2023). Targeted RNA sequencing
+  profiling (H¨ anggi et al., 2025). Targeted S5 RNA sequencing identified
+  fluids in mixtures (Hanson et al., 2023). Vaginal cells were differentiated
+  RNA-derived small RNAs (tsRNAs) were explored for fluid identification
+  forensic body fluid classification (Li et al., 2025c). Target mRNA cSNP
+  sequencing identified fluid donors (Liu et al., 2024, Liu et al. 2025a, Liu
+  their capabilities with body fluid characterization (Lynch & Fleming
+  Targeted sequencing combined mRNA and coding region SNPs (Neis
+  parallel sequencing (MPS) were compared and standardized (Kim et al.,
+  2024a, Kim et al., 2024b). Workflows were established for fluid iden-
+  et al., 2024). Random forest models identified mixtures (Wang et al.,
+  2023). AI-driven feature selection screened CpGs using pyrosequencing
+  sure to vaginal fluid changed microbial communities (Liao et al., 2023).
+  fluids (Wohlfahrt et al., 2023). Multiplex systems identified fluids and
+  identification of body fluids (Zhang et al., 2025).
+  Biomarkers were used with flow cytometry to detect body fluids (Tewari
+  2024) and vaginal fluid (Ye et al., 2024). Body fluids should be identi-
+
+--- Page 13 ---
+  3.5. DNA processing
+
+--- Page 14 ---
+  integration with microfluidic chips (Priya et al., 2024). Validation
+  microfluidic system was proposed for rapid differential extraction
+
+--- Page 15 ---
+  mixture samples to estimate whether a sample was likely to yield an
+  2025). Limitations of the Quantifiler Trio-HRM assay for mixture iden-
+  nanopore sequencing through direct PCR (Casanova-Ad´ an et al., 2023).
+
+--- Page 16 ---
+  2024). Direct amplification of body fluids was achieved using Micro-
+  3.6. DNA typing with short tandem repeat markers
+  communication (Novroski 2023) and massively parallel sequencing pi-
+
+--- Page 17 ---
+  from whole-genome sequencing data (Damour et al., 2023). Amplifica-
+  human genomes (Shi et al., 2023). Sequencing and characterizing short
+  leles in parentage testing was identified by Sanger sequencing (Jiang
+  3.7. DNA interpretation at the sub-source or source level
+  interpreting DNA mixtures, and artificial intelligence tools are being
+
+--- Page 18 ---
+  review of DNA mixture interpretation (Butler et al., 2024). Proceedings
+  Regulator issued guidance on proficiency testing for mixture analysis
+  (FSR-G-223-Forensic Science Regulator 2024), and general mixture
+  DYS576 in the PowerPlex Fusion 6C panel for mixture analysis was
+  degraded DNA mixtures (Chen et al., 2024). Body-wide chimerism and
+  (Dauber et al., 2024). The accuracy of mixture analysis was found to
+  Droplet digital PCR was used to discover unbalanced mixtures and
+  the number of contributors (NoC) remains a critical step in mixture
+  identification problems was analyzed in real casework mixtures (Costa
+  DNA Mixtures with Probabilistic Genotyping Software. Proba-
+  bilistic genotyping software (PGS) is central to modern mixture inter-
+  pretation. The value of mixture-to-mixture comparisons was assessed in
+  2025b). The exonerating power of "what isn't there" in mixture evidence
+  preting next-generation sequencing (NGS)-generated profiles (Cheng
+  mixture was solved using a sample from a relative (G´ omez et al., 2025).
+  three-contributor mixtures (Guo et al., 2024). Random forest regression
+  mixtures (Hwa et al., 2025). An STR mixture analysis and resolution tool
+  (SMART) was introduced for mixture interpretation (Ji et al., 2025).
+  debated (Sallavaci 2025). LRs from STR sequencing and CE were
+  compared for complex mixtures (Sidstedt et al., 2025). A guiding prin-
+  mixture interpretation (Slooten et al., 2025). Similarities and differences
+  investigated (Wivell et al., 2023), and mixture detection performed
+  Interlaboratory Studies on DNA Mixtures. Collaborative studies
+  have highlighted variability and consensus in mixture interpretation. An
+  (Hicklin et al., 2025). Propositions used to assess mixtures were
+
+--- Page 19 ---
+  (Ido et al., 2025). Whole transcriptome shotgun sequencing identified
+  continuous models (Hahn et al., 2023, Templin et al., 2023) and mixture
+  3.8. DNA interpretation at the activity level
+
+--- Page 20 ---
+  3.9. Statistics and population genetic data
+
+--- Page 21 ---
+  STR Allele Sequence Data. Massively parallel sequencing is
+  population (Turrina et al., 2025). Parallel sequencing of 170 STR and
+  Relationship Testing Standards Committee 2024). A review covered the
+
+--- Page 22 ---
+  coverage sequencing were improved (Mostad et al., 2023). Paternity
+  (Jusic et al., 2023). Massively parallel sequencing of human leukocyte
+  wide and targeted sequencing were compared (Colucci et al., 2025),
+  was summarized (Liu et al., 2025). Immune repertoire sequencing
+
+--- Page 23 ---
+  4. Emerging technologies and Research studies
+  generation DNA sequencing, DNA phenotyping for estimating a sam-
+  4.1. Next-generation sequencing and technology developments
+  Next-generation sequencing (NGS), also known as massively parallel
+  sequencing (MPS) in the forensic DNA community, expands the mea-
+  period included Next Generation Sequencing (NGS) Technology in DNA
+  2025). The potential of long-read sequencing was explored, with results
+  (Foley and Oldoni 2023). Reviews also covered pyrosequencing meth-
+  massively parallel sequencing into the UK market (Hartshorne et al.,
+  2024). Further reviews discussed third-generation sequencing progress
+  sequencing (Tytgat & Van Nieuwerburgh 2023).
+  performed to prepare for shotgun sequencing (Kampmann et al., 2025).
+  sequencing of both DNA and RNA (Miao et al., 2025). Automation was
+  Sequencing STR Markers. The transition to sequence-based STR
+  template mixtures (Crysup et al., 2023). Secondary structure predictions
+  2024), and comparisons between massively parallel sequencing and
+  sequencing utilizing SiMSen-Seq and unique molecular identifiers was
+  described (Sidstedt et al., 2024). The era of long-read sequencing for
+
+--- Page 24 ---
+  global autosomal STR profiling kit (de Jong et al., 2025). Sequencing of
+  parallel sequencing (Guo et al., 2024). Comparisons of the ForenSeq
+  on mixtures and low template DNA (Kocsis et al., 2025). A novel 193-
+  the detection of 99.2% of expected alleles in mixtures with minor con-
+  Signature Prep Kit and MiSeq FGx Sequencing System (Yang et al.,
+  Sequencing to Aid DNA Mixture Interpretation. NGS technology
+  has been applied to resolve complex DNA mixtures. NGS was utilized to
+  analyze mixed DNA samples (Kara et al., 2024), while sequencing-
+  2024). Massively parallel sequencing improved individual identification
+  in mixtures of unrelated or related contributors (Liu et al., 2024).
+  Probabilistic genotyping was evaluated for low-pass DNA sequencing
+  able forensic DNA sequence mixture data were developed to support
+  sequencing was used for human identification with dynamic SNP se-
+  generated for targeted sequencing (Sundararaman et al., 2023), and a
+  groups. An "FD Multi-SNP Mixture Kit" was analyzed for human complex
+  mixtures (Chen et al., 2024). Genotyping of 58 STRs and 94 identity-
+  probability of 1.7 × 10   38 (Kiesler et al., 2023). Targeted sequencing of
+  parallel sequencing platforms were compared for SNP genotyping (Li
+  sequencing forensic STR and SNP markers (Sadam et al., 2025). Unique
+  et al., 2023). Nanopore direct sequencing was explored for forensic
+  (Hern´ andez Bustos et al., 2023), and a digital microfluidic approach was
+  using MinION nanopore sequencing was conducted (Luo et al., 2024).
+  nanopore sequencing (Ren et al., 2024). Real-time PCR using QueSTR
+  et al., 2025). A review of microfluidic approaches to nucleic acid anal-
+  sequencing in forensic genetics were discussed including the use of
+
+--- Page 25 ---
+  4.2. DNA phenotyping and methylation
+  listic genotyping, FDP, and forensic investigative genetic genealogy
+  & de Pancorbo 2025), and the Oxford Nanopore Sequencing system was
+  ancestry (Casanova-Ad´ an et al., 2025) and estimated in the sequencing
+  sequencing (Liu et al., 2024). The utility of ancestry informative markers
+  the GenoGeographer Admixture Module was updated with new AIMs
+  population data (Mogensen et al., 2022). Admixture proportions in
+
+--- Page 26 ---
+  et al., 2025). A targeted amplicon sequencing panel of 50 SNPs was
+  et al., 2025). Nanopore sequencing was used to estimate the short-term
+  amplicon sequencing assay was introduced to quantify markers for four
+  epigenetic clocks (Po´spiech et al., 2023). Pyrosequencing data from
+  Massively parallel sequencing was utilized for targeted methylation
+  4.3. Lineage markers
+
+--- Page 27 ---
+  Temperature-dependent sequencing was explored for incinerated tooth
+  with specific attention to sequencing quality in decomposed samples
+  (Lee et al., 2025). Nanopore sequencing was applied using Mitopore
+  Probabilistic assessment tools were created for mtDNA mixtures
+
+--- Page 28 ---
+  4.4. New markers and approaches
+  contributor mixtures (Kuffel et al., 2024). Editorials and special issues
+  MHinNGS Python script (Jø nck & Bø rsting 2022). Mixture deconvolu-
+  amplicon sequencing (Kwon & Shin 2024). Complex mixture interpre-
+  systems were optimized for mixture analysis (Tan et al., 2022). Kinship
+  macrohaplotypes in long sequencing reads (Wang et al., 2024). A
+  haplotypes was applied to semen-vaginal fluid mixtures (Wen et al.,
+  et al., 2024). Nanopore sequencing was applied to MiniHap biomarkers
+  for mixture deconvolution (Zhang et al., 2025). Further evaluations
+  mixtures (Zhu et al., 2023), single-primer extension systems (Zhu et al.,
+  Dong groups (Dong et al., 2024). For mixture analysis, a SNaPshot-based
+  InDels and SNPs were used to improve mixture analysis (Tan et al.,
+  unbalanced mixtures (Wu et al., 2025) and to study diversity in Yunnan
+  panel for genetic admixture analysis (Yang et al., 2023, Yang et al.,
+  (Chu & Lin 2025). The persistence of proteomic body fluid signals was
+
+--- Page 29 ---
+  16S rRNA gene-amplicon sequencing results when analyzing the bac-
+  terns were used to infer body locations and identify fluids (Huang et al.,
+  vaginal fluids were characterized (Liao et al., 2023).
+  Reviews covered geographical location (Moitas et al., 2024), sequencing
+  learning for differentiating samples with 16S rRNA sequencing (Yang
+  rRNA gene sequencing was compared to sub-regions (Zhang et al.,
+  Phenotype predictions were achieved from two-person mixtures using
+  admixtures (Duffy et al., 2023). Single-cell sorting of spermatozoa was
+  covery of male cells was achieved in same-cell mixtures (Hogg et al.,
+  plex mixture deconvolution (Huffman et al., 2025). Non-targeted single-
+  cell DNA sequencing allowed for the deconvolution of multi-person
+  mixtures (Kulhankova et al., 2024). Weight-of-evidence calculations
+  tion (Bianchi et al., 2024). Massive sequencing in molecular autopsy
+  compared gene panels to whole exome sequencing (Blanco-Verea et al.,
+  4.5. Non-human DNA testing and wildlife forensics
+
+--- Page 30 ---
+  2.1 Kit on purebred dogs in Japan (Kunita et al., 2024). A novel 30-plex
+  nanopore sequencing to account for nuclear mitochondrial DNA seg-
+  sequencing the whole mitochondrial DNA of domestic dogs (Sugasawa
+  forensic species classification using direct sequencing of real-time PCR
+  developed for species classification with mixture deconvolution capa-
+
+--- Page 31 ---
+
+--- Page 32 ---
+  recommendation or endorsement by the National Institute of Standards
+  Investigative Genetic Genealogy Technologies: Proceedings of a Workshop,
+  Sequencing (NGS) Technology in DNA Analysis, Elsevier, 2024, https://doi.org/
+  [16] A. Amorim, An Introduction to Forensic Genetics for Non-geneticists, CRC Press,
+  Through DNA Genealogy: Solving the Unsolvable Through Genetic Detective
+  [23] M.S. Ramage, C.B.W. Desmarais, Forensic Genealogy: Theory & Practice, National
+  [24] C.C. Rogers Jr., The Forensic Revolution: IGG Investigative Genetic Genealogy,
+  Practice Through a Systems Approach, National Institute of Standards and
+  [26] J.M. Butler, H. Iyer, R. Press, M.K. Taylor, P.M. Vallone, S. Willis, DNA Mixture
+  Standards and Technology, U.S.), Gaithersburg, MD, 2024, https://doi.org/
+  [31] J.M. Butler, Introduction, in: 30th Congr. Int. Soc. Forensic Genet. ISFG 2024
+  [32] Federal Bureau of Investigation, FBI Quality Assurance Standards for Forensic
+  [33] Federal Bureau of Investigation, FBI Quality Assurance Standards for DNA
+  Assurance Standards for Forensic DNA Testing and DNA Databasing Laboratories,
+
+--- Page 33 ---
+  States : a Path Forward Through Research and Standards, National Institute of
+  Standards and Technology, U.S.), Gaithersburg, MD, 2024, https://doi.org/
+  Institute of Standards and Technology, U.S.), Gaithersburg, MD, 2025, https://
+  Processes, National Institute of Standards and Technology, Gaithersburg, MD,
+  Survey, National Institute of Standards and Technology, Gaithersburg, MD, 2025,
+  Standards and Technology, Gaithersburg, MD, 2025, https://doi.org/10.6028/
+  Data, National Institute of Standards and Technology, 2025, https://doi.org/
+  Genealogy (FIGG), Forensic Sci. Int.: Synergy 6 (2023) 100316, https://doi.org/
+  guidelines for establishing Forensic Investigative Genetic Genealogy (FIGG)
+  Forensic Investigative Genetic Genealogy (FIGG) programs, Forensic Sci. Int.:
+  [66] Investigative Genetic Genealogy Accreditation Board, Investigative Genetic
+  Genealogy - Professional Standards and Accreditation Requirements, 2025. http
+  [67] Investigative Genetic Genealogy Accreditation Board, Investigative Genetic
+  Genealogy - Code of Professional Ethics, 2025. https://www.iggab.org/uploads
+  Mixture Interpretation (FSR-G-222), 2024. https://www.gov.uk/government/p
+  ublications/dna-mixture-interpretation-fsr-g-222/dna-mixture-interpretation
+  Testing Guidance: DNA Mixture Analysis and Interpretation (FSR-G-224), 2024.
+  a-mixture-analysis-and-interpretation/proficiency-testing-guidance-dna-mixture-
+  Validation for DNA Mixture Interpretation (FSR-G-223), 2024. https://www.gov.
+  uk/government/publications/software-validation-for-dna-mixture-interpretatio
+  n-fsr-g-223/software-validation-for-dna-mixture-interpretation-accessible.
+
+--- Page 34 ---
+  Genealogy, 2024. https://www.anzpaa.org.au/ArticleDocuments/346/Australia
+  %20New%20Zealand%20Forensic%20Investigative%20Genetic%20Genealogy%
+  [91] AABB Relationship Testing Standards Committee, 16th Edition of Standards for
+  Adherence to Forensic Science Standards, 2024. https://www.theiacp.org/site
+  20Forensic%20Science%20Standards.pdf. (Accessed 18 November 2025).
+  Genetic Genealogy, 2020.
+  genetic Genealogy Technology Validation Working Group (FIGG-TVWG),

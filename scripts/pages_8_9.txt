@@ -1,0 +1,260 @@
+
+================ PAGE 8 ================
+science, bioinformatics, law enforcement and academia. In 2024 and 
+2025, the IGGAB published professional standards and accreditation 
+requirements [66] and a code of professional ethics [67]. IGGAB also 
+administers an IGG accreditation exam.
+2.4.6. UK Forensic Science Regulator
+The UK Forensic Science Regulator (UKFSR) oversees forensic sci-
+ence efforts in England, Wales, and Northern Ireland. In 2021, the 
+Forensic Science Regulator Act passed by Parliament made the Code of 
+Practice statutory beginning in October 2023. Version 2 of this Code of 
+Practice (now 388 pages) [80] went into effect in October 2025. Table 3 
+lists 15 guidance documents pertinent to biological evidence from the 
+UKFSR [68– 82]. Some recent changes in the guidance documents 
+accompanying the Code of Practice (i.e., those UKFSR documents in 
+Table 3 with Issue 2, 3, or 4 in their title) appear to be editorial rather 
+than substantive compared to previous versions.
+2.4.7. European Union and ENFSI
+The European Network of Forensic Science Institutes (ENFSI) DNA 
+Working Group published four documents in the past three years: a best 
+practice manual for human forensic biology and DNA profiling [83] as 
+well as guidelines for internal validation/verification of various aspects 
+of the DNA profiling process [84], DNA database management [85], and 
+DNA contamination minimization in laboratories [86] (see Table 3).
+2.4.8. Australia and New Zealand
+During the past three years, the Australian New Zealand Policing 
+Advisory Agency (ANZPAA) National Institute of Forensic Science 
+(NIFS) published three short (1- or 2-page) documents considering key 
+principles on applying investigative genetic genealogy [87], reporting 
+forensic biology evidence [88], and providing an authentic quality 
+culture in forensic science [89]. In June 2025, ANZPAA NIFS also shared 
+guidelines for validation of forensic science methods [90] (see Table 3).
+2.4.9. Other international efforts
+The Association for the Advancement of Blood and Biotherapies 
+(AABB) 23 published the 16th edition of their Standard for Relationship 
+Testing Laboratories, which became effective on January 1, 2024. This 
+documentary standard was developed by the AABB Relationship Testing 
+Standards Committee and applies to laboratories accredited for pater-
+nity testing and other forms of genetic relationship assessment [91]. 
+The International Society for Forensic Genetics (ISFG) DNA Com-
+mission 24 published one article during the timeframe of this INTERPOL 
+review (see Table 3) relating to short tandem repeat sequence nomen-
+clature [92]. This ISFG DNA Commission described five recommenda-
+tions covering 1) sequence strings and a minimum reporting range, 2) 
+additional sequence formats, 3) resources for researchers, bio-
+informaticians, and practitioners, 4) information on characterizing new 
+STR loci, and 5) considerations for incorporating STR sequences and 
+other new markers into investigative databases [92].
+Forensic Science International: Genetics, the official journal of ISFG, 
+provided guidance for authors and reviewers, which among other topics 
+emphasized the importance of having “ conclusions supported by a 
+comprehensive set of open-access data and/or open-source software 
+and/or other documentation to ensure that the work is accessible and 
+useful to the broader community”  [93]. With a goal to improve consis-
+tency in studies on DNA transfer, persistence, prevalence, and recovery 
+(TPPR), editorial guidance was recently provided with a supplemental 
+Excel template outlining the minimum information required for each 
+sample in future analyses [94].
+In November 2023, INTERPOL released their updated Guide to
+Disaster Victim Identification (DVI) with multiple annexes [95]. The 
+Forensic Science Committee of the International Association of Chiefs of 
+Police (IACP) provided two resolutions in 2024 that were accepted by 
+the IACP membership regarding the use of rapid DNA in mass disaster 
+responses [96] and promoting adoption of forensic science standards 
+[97].
+In June 2025, Technical Committee 272 of the International Orga-
+nization for Standardization (ISO), which was created in 2012 to work 
+on standardization and guidance in forensic science, 25 published four 
+parts to ISO 21043 covering vocabulary [98], analysis [99], interpre-
+tation [100], and reporting [101]. These ISO 21043 standards are 
+intended for all aspects of forensic science, not just biological evidence, 
+and “ represents a unique opportunity to unify and advance forensic 
+science as a discipline, and to improve the reliability of expert opinions 
+and trust in the justice system”  [104].
+3. Advances in current practices
+This section contains information of primary use to law enforcement 
+and practitioners and is focused on publications that describe advances 
+in current practices. The following section (Section 4) contains infor-
+mation that is researcher-focused with emphasis on emerging technol-
+ogies and research studies.
+Most of the article summary text in both sections was written by AI 
+(Gemini 3 Pro Thinking Mode) using the prompts described in Section 
+1.2 of this review. For the text of Sections 3 and 4, reference citations 
+(author-year) refer to the sorted references listed in the specified sec-
+tions found in Supplemental File 2. This approach has been used (after 
+consulting with the journal editor-in-chief) to avoid having a very long list of 
+references at the end of this review article that the journal publisher would 
+have to type set for publication.
+3.1. Rapid DNA analysis
+Rapid DNA instruments that provide integrated “ swab-in-profile-
+out”  results in 90 min or less can be used in police booking station en-
+vironments and assist investigations outside of a traditional laboratory 
+environment.
+Books, Review Articles, and Guidance. A systematic review pub-
+lished in January 2023 examined 8 ParaDNA, 21 RapidHIT, 12 ANDE, 
+and 2 RapidHIT & ANDE articles available in 2022 or earlier, and 
+determined that while impressive developments have occurred with 
+these technologies, “ there is still no portable device containing all the 
+required steps available for fast analysis (under 1 h for a full STR profile) 
+of real ‘dirty’ samples directly at the crime scene”  (Bruijns et al., 2023). 
+Options for improving forensic genetic workflows in small geographical 
+areas were evaluated for cost-effectiveness (De La Chica et al., 2025). 
+The FBI released a comprehensive guide covering all aspects of imple-
+menting rapid DNA analysis (Federal Bureau of Investigation 2025), 
+while the UK Forensic Science Regulator published specific guidance for 
+methods employing these devices (Forensic Science Regulator 2025). 
+Detailed protocols for profile development using the Applied Biosystems 
+RapidHIT ID System were documented (Foley 2023). The IACP Forensic 
+Science Committee issued a resolution incorporating rapid DNA analysis 
+into mass disaster response plans (IACP Forensic Science Committee 
+2024), and its specific utility for human identity determination was 
+highlighted following the Maui wildfires (Novroski 2023). Additionally, 
+a book chapter reviewed DNA sequencing and rapid DNA tests within 
+the context of modern forensic tools (Singh & Rawtani 2023).
+Results with Rapid DNA Instruments. Empirical studies have 
+expanded the applications of rapid DNA instruments beyond standard 
+reference samples. A field experiment introduced a rapid DNA analysis
+23 https://www.aabb.org/standards-accreditation/standards/relationship-test
+ing-laboratories. 
+24 https://www.isfg.org/DNA+Commission.
+25 ISO/TC 272 Forensic sciences: https://www.iso.org/committee/4395817. 
+html.
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+8 
+
+
+================ PAGE 9 ================
+procedure for crime scene samples outside the laboratory (de Roo et al., 
+2023). Two simplified tooth sample preparation methods were devel-
+oped for conventional and RapidHIT ID workflows (Eaton et al., 2024). 
+The processing of biological samples from simulated radiological 
+terrorist events was evaluated using rapid DNA instruments (Fr´egeau & 
+Laurin 2024). The RapidHIT ID system was applied for fast cell 
+authentication via STR profiling (Koh et al., 2023). A comparative 
+analysis of two rapid DNA technologies was conducted for blood and 
+saliva-based samples (Laurin et al., 2023). The performance of two 
+different RapidHIT ID cartridge types was compared for generating 
+forensic leads (Lim et al., 2025). Results from the 2023 multi-laboratory 
+study were reported for the I-Chip (Romsos et al., 2024) and the Rap-
+idINTEL Plus sample cartridge (Romsos et al., 2024). Subsampling blood 
+swabs was identified as an efficient practice for RapidHIT ID analyses 
+(Siatka et al., 2024). A simplified differential extraction method was 
+developed to obtain investigative leads from sexual assault evidence 
+using the RapidHIT ID (Tirado et al., 2025). Finally, the success rate of 
+rapid DNA technology was evaluated for kinship analysis purposes 
+(Ünsal Sapan et al., 2024).
+Rapid Methods or Assays. Innovations in rapid testing extend to 
+novel sensors and amplification techniques. A quartz tuning fork-based 
+biosensor was developed for latent DNA detection at crime scenes 
+(Alzahrani et al., 2025). A rapid ABO genotyping method was created 
+using loop-mediated isothermal amplification (LAMP) and real-time 
+PCR (Choi et al., 2024). A critical review examined the conjugation of 
+visual enhancers in lateral flow immunoassays for forensic analysis 
+(Dede & van Dam 2025). A Fusion-5 Filter-based microchip was intro-
+duced for efficient on-chip DNA extraction and PCR amplification 
+(Nagpal & Kumar 2024). Field-adapted species identification was ach-
+ieved by combining multiplex multienzyme isothermal rapid amplifi-
+cation with lateral flow dipsticks (Sun et al., 2024). Rapid human-
+specific DNA quantitation was demonstrated using a microfluidic 
+amplification module at the point of care (Tan & Selden 2023). Strate-
+gies for proactive crime scene response to optimize investigations were 
+discussed (Wickenheiser 2023), alongside a new service delivery model 
+focusing on speed in the forensic laboratory (Wickenheiser & Knutson 
+2024). Additionally, a recombinase polymerase amplification assay was 
+developed for the specific and rapid detection of human DNA (Zheng 
+et al., 2023).
+3.2. DNA databases and ethics
+Forensic DNA databases can aid investigations by demonstrating 
+connections between crime scenes, linking a previously developed DNA 
+profile from an arrestee or convicted offender to biological material 
+recovered from a crime scene, or aiding identification of missing persons 
+through association of remains with biological relatives. Establishment 
+of these databases requires significant investments over time to enroll 
+data from crime scenes and potential serial offenders or unidentified 
+human remains and relatives of missing persons. This section explores 
+issues around national DNA databases, elimination databases, familial 
+searching, and ethics related to database governance.
+Books, Review Articles, and Guidance. The ENFSI DNA Working 
+Group released comprehensive guidelines for DNA database manage-
+ment review and recommendations (ENFSI DNA Working Group 2023). 
+A review discussed the specific utility of trace DNA within forensic 
+science for both investigative and intelligence purposes (Hoffmann 
+et al., 2024). Additionally, a chapter in a recent text provided a broad 
+overview of forensic DNA databases (Omran 2025).
+DNA Databases. The effectiveness of DNA banks in criminal in-
+vestigations was measured in Brazil (Ataide & Sousa 2023). The use-
+fulness of one-off DNA database searches was evaluated in Western 
+Switzerland (Basset et al., 2025). A retrospective study analyzed the first 
+implementation of the Fast DNA Identification Line (FIDL) automated 
+workflow at the Netherlands Forensic Institute (Benschop et al., 2022). 
+Quality management practices were reviewed for a Brazilian forensic
+DNA laboratory (Bezerra et al., 2025). A new model for an integrated 
+forensic database was proposed for India (Das et al., 2024), while 
+another study tested the efficacy of recent STR markers in the Indian 
+population (Dixit et al., 2025). ProbRank was introduced as an efficient 
+search method for complex mixtures using a quantitative likelihood 
+ratio model (Hoogenboom et al., 2023). A proposal was made to build a 
+DNA database to help identify children stolen in conflicts (Huston 
+2025). The impact of DNA databases on crime investigation was 
+analyzed in Ukraine (Kostiuchenko et al., 2024). Public support for 
+expanding DNA databases in South Korea was linked to police empow-
+erment and legitimacy (Kuen et al., 2025). The potential of DNA data-
+banks in Canada to provide information on the criminal behavior of 
+unidentified individuals was explored (Lavergne et al., 2024). The Ital-
+ian experience with DNA data banks was reviewed regarding facts and 
+perception (Luparia et al., 2024). The establishment of a DNA finger-
+printing database was detailed for the United Arab Emirates (Madi 
+2024). The impact of Brazil's convict genetic profile identification 
+project was evaluated after five years (Minervino et al., 2024). Public 
+awareness and willingness to establish a national forensic DNA and 
+odontology database were assessed in Egypt (Moawad et al., 2025). 
+Awareness and acceptance of storing DNA profiles in a forensic databank 
+were assessed in Malaysia (Nawani et al., 2023). Empirical studies 
+evaluated searching national databases with complex profiles using 
+probabilistic genotyping (Nozownik et al., 2025). The “ Prüm imple-
+mentation”  in the UK was cited as a success story of collaboration 
+(Revoir et al., 2025). DNA profiling issues in India, such as sample 
+preservation and legislation, were addressed (Sahajpal & Bhandari 
+2024). DNA databases were highlighted as a tool to improve the search 
+for missing persons in Brazil (Silva Junior et al., 2022). The value of 
+forensic DNA databases was discussed (Smith & Horne 2024), as well as 
+their establishment in Africa (Smith & Horne 2024) and future di-
+rections for the continent (Smith et al., 2024). In the Sahel region of 
+Africa, the need to update national security policy to support forensic 
+DNA databases was emphasized (Zeye et al., 2024).
+Elimination Databases. Best practice recommendations were pub-
+lished for the management and use of quality assurance DNA elimina-
+tion databases (ANSI/ASB 171). The importance of including staff 
+genetic profiles in these databases was highlighted (Bogas et al., 2025). 
+Hungarian legislation regarding the implementation of an elimination 
+database was reviewed (Nogel 2024). A comparative analysis of elimi-
+nation databases across seven European countries was conducted (Nogel 
+et al., 2025).
+Familial Searching. Y-chromosomal kinship estimation was pro-
+posed to assist forensic familial searching (Claerhout et al., 2022). 
+Regulatory frameworks for familial searching in Hungary were dis-
+cussed (Nogel 2022). A new search tool was implemented for familial 
+searches in the Israel criminal DNA database (Ram et al., 2023). The 
+National Forensic DNA Database of South Africa was utilized for familial 
+searching to aid in identifying missing persons (Singh et al., 2025). A 
+report detailed the outcomes of Swedish familial searches from 2019 to 
+2024 (Widen & Ansell 2025).
+Ethics and Database Governance. EU law concerning access to 
+research biobanks for forensic purposes was analyzed (Aime et al., 
+2023). Legal ethics regarding double jeopardy and splitting cases were 
+discussed (Akhtar 2024). The balance between law, medicine, and ethics 
+in state genomic registries was examined in Ukraine (Akhtyrska & 
+Kostiuchenko 2023). The intersection of behavioral genetics, big data, 
+and the risk of future offending was explored (Alimardani et al., 2023). 
+Stakeholder perspectives on humanitarian forensics and international 
+kinship matching were surveyed (Amankwaa et al., 2025). Migration 
+control and Britain's DNA profiling pilot project were historically 
+analyzed (Bivins 2024). A code of conduct was published for Italian 
+forensic geneticists (Buscemi et al., 2022). Limitations of forensic sci-
+ence in rape and murder cases in India were discussed (Charan & 
+Manikyam 2023).
+Ethical considerations for forensic genetic frequency databases were
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+9 
+

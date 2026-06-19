@@ -1,0 +1,478 @@
+Total Pages: 34
+============================================================
+
+--- Page 1 ---
+First few lines:
+INTERPOL Review of Forensic Biology and DNA, 2023-2025
+John M. Butler
+National Institute of Standards and Technology, Special Programs Office, 100 Bureau Drive, Mail Stop 6021, Gaithersburg, MD, USA
+A R T I C L E I N F O
+Keywords:
+DNA
+Forensic biology
+Forensic DNA
+INTERPOL review
+A B S T R A C T
+Keywords found: NIST, Body fluid, RNA, Mixture / DNAmix, Phenotyping / FDP, FIGG / Genealogy, Single-cell
+
+--- Page 2 ---
+First few lines:
+times up until October 2025 with “ forensic”  and “ DNA”  or “ biology”  and
+“ 2023 to 2025”  as search options. Additional references were included
+through December 2025. For example, a Web of Science search on
+September 19, 2025 using “ forensic DNA”  or “ DNA profiling”  or “ DNA
+typing”  or “ forensic genetics”  or “ short tandem repeat”  for publication
+years 2023, 2024, or 2025 located 1959 total publications of which 169
+were review articles. The thousands of articles that were returned with
+these searches were focused down to around 1550 items (including
+journal articles, reports, and book chapters) through visual examination
+of titles, authors, and abstracts and removing duplicates. For journals
+Keywords found: RNA, Electrophoresis / Artifacts, Phenotyping / FDP, FIGG / Genealogy
+
+--- Page 3 ---
+First few lines:
+individual identification and parentage testing (Liu et al. 2024). Also pub-
+lished were a test to predict externally visible traits in dogs to assist in forensic
+investigations (Heinrich et al. 2023), a description of the population genetics
+for 18 STR loci using the Canine Genotypes Panel 2.1 Kit on pure-bred dogs in
+Japan (Kunita et al. 2024), a comparison of commercial dog breed kits with
+STR genotyping for identity determinations (Novroski et al. 2023), a method
+was reported for sequencing the whole mitochondrial DNA of domestic dogs
+(Sugasawa et al. 2023), and how annealing temperatures affect 16S rRNA
+gene-amplicon sequencing for analyzing the bacterial community on canine
+skin (Apostolopoulos et al. 2023).
+Keywords found: NIST, RNA, Electrophoresis / Artifacts, Mixture / DNAmix, Likelihood Ratio / LR, Phenotyping / FDP, FIGG / Genealogy
+
+--- Page 4 ---
+First few lines:
+S. National Academy of Sciences jointly organized an October 2023
+meeting titled “ Science in the Interests of Justice”  with a published
+summary of discussions that included some remarks on DNA mixture
+evidence, likelihood ratios, and presenting evidence ([27] see pp. 11-13,
+22-26).
+Two sets of proceedings for the biennial International Society for
+Forensic Genetics (ISFG) were published within the time window of this
+review: ISFG 2022 with 126 articles across 352 pages [28] and ISFG
+2024 with 166 articles across 1253 pages [29]. In his role as ISFG
+President, the author wrote the introduction for the Congress Pro-
+Keywords found: SWGDAM, NIST, RNA, qPCR / Quantification, Electrophoresis / Artifacts, Mixture / DNAmix, Likelihood Ratio / LR, Phenotyping / FDP, FIGG / Genealogy, Single-cell
+
+--- Page 5 ---
+First few lines:
+Table 3
+Guidance documents related to forensic DNA published since the previous re-
+view [1]. Abbreviations: FBI (Federal Bureau of Investigation), SWGDAM (Sci-
+entific Working Group on DNA Analysis Methods), ANSI (American National
+Standards Institute), ASB (Academy Standards Board), OSAC (Organization of
+Scientific Area Committees for Forensic Science), UKFSR (United Kingdom
+Forensic Science Regulator), ENFSI DNA WG (European Network of Forensic
+Science Institutes DNA Working Group), ANZPAA NIFS (Australia New Zealand
+Policing Advisory Agency National Institute of Forensic Science), AABB (Asso-
+ciation for the Advancement of Blood and Biotherapies), ISFG (International
+Keywords found: SWGDAM, OSAC, NIST, ENFSI, UK FSR, RNA, STR typing, Likelihood Ratio / LR, FIGG / Genealogy
+
+--- Page 6 ---
+First few lines:
+Quality Assurance Standards (QAS) used to assess U.S. forensic DNA
+laboratories involved in the National DNA Index System (NDIS) that
+perform DNA databasing and forensic casework. New versions of the
+QAS became effective July 1, 2025, along with forensic QAS audit and
+database QAS audit Excel files and an additional guidance document
+[34]. The 2025 QAS includes new sections on laboratory use of rapid
+DNA and rapid DNA partner agencies. In March 2025, the FBI revised
+their “ Guide to All Things Rapid DNA”  [35]. Since July 1, 2025, crime
+scene evidence analyzed with approved rapid DNA instruments can now
+be searched in the Combined DNA Index System (CODIS) when eligi-
+Keywords found: SWGDAM, OSAC, NIST, ENFSI, UK FSR, RNA, STR typing, Mixture / DNAmix, Likelihood Ratio / LR, FIGG / Genealogy
+
+--- Page 7 ---
+First few lines:
+(SACs) and 22 subcommittees. The Biology SAC is divided into human
+and wildlife forensic biology activities. The Human Forensic Biology
+Subcommittee 14 focuses on standards and guidelines related to training,
+method development and validation, data analysis, interpretation, and
+statistical analysis as well as reporting and testimony for human forensic
+serological and DNA testing. The Wildlife Forensics Subcommittee 15
+works on standards and guidelines related to taxonomic identification,
+individualization, and geographic origin of non-human biological evi-
+dence based on morphological and genetic analyses.
+The Academy Standards Board (ASB) 16 is a wholly owned subsidiary
+Keywords found: OSAC, NIST, RNA, Mixture / DNAmix, Likelihood Ratio / LR, FIGG / Genealogy, Single-cell
+
+--- Page 8 ---
+First few lines:
+science, bioinformatics, law enforcement and academia. In 2024 and
+2025, the IGGAB published professional standards and accreditation
+requirements [66] and a code of professional ethics [67]. IGGAB also
+administers an IGG accreditation exam.
+2.4.6. UK Forensic Science Regulator
+The UK Forensic Science Regulator (UKFSR) oversees forensic sci-
+ence efforts in England, Wales, and Northern Ireland. In 2021, the
+Forensic Science Regulator Act passed by Parliament made the Code of
+Practice statutory beginning in October 2023. Version 2 of this Code of
+Practice (now 388 pages) [80] went into effect in October 2025. Table 3
+Keywords found: NIST, ENFSI, UK FSR, RNA, FIGG / Genealogy
+
+--- Page 9 ---
+First few lines:
+procedure for crime scene samples outside the laboratory (de Roo et al.,
+2023). Two simplified tooth sample preparation methods were devel-
+oped for conventional and RapidHIT ID workflows (Eaton et al., 2024).
+The processing of biological samples from simulated radiological
+terrorist events was evaluated using rapid DNA instruments (Fr´egeau &
+Laurin 2024). The RapidHIT ID system was applied for fast cell
+authentication via STR profiling (Koh et al., 2023). A comparative
+analysis of two rapid DNA technologies was conducted for blood and
+saliva-based samples (Laurin et al., 2023). The performance of two
+different RapidHIT ID cartridge types was compared for generating
+Keywords found: ENFSI, RNA, Extraction, Mixture / DNAmix, Likelihood Ratio / LR
+
+--- Page 10 ---
+First few lines:
+reported (D'Amato et al., 2024) as were some ethical issues with next-
+generation sequencing (NGS) technology (DeAngelo & Elkins 2023). A
+contextual integrity approach was applied to genomic information (de
+Groot 2024). The importance of consent forms in creating DNA data-
+bases was emphasized (Jankova et al., 2022). The governance of inter-
+national genomics collaborations was reviewed (Joly 2024). Ethical
+considerations for DNA profiling in India were compared with interna-
+tional guidelines (Khan & Mer 2024). Genetic privacy in the age of
+consumer applications was examined (Krimsky 2023). Individual pri-
+vacy and the reporting of biological sex were discussed (Lynch et al.,
+Keywords found: RNA, FIGG / Genealogy
+
+--- Page 11 ---
+First few lines:
+modeled (Hu & Wein 2024). Legal bases for using data "manifestly made
+public" were critically examined in Europe (Kuru 2025). Balancing
+crime-solving with genetic privacy was explored (McGuire et al., 2023),
+alongside the convergence of genealogy and molecular diagnostics
+(Newsham 2024). Digital forensics was suggested as a support tool for
+addressing legal challenges (Nogel 2024). Australian privacy law was
+analyzed regarding offshore direct-to-consumer genetic data (Shackel &
+Smith 2025).
+Technology Used and Validation Studies Performed. A molecular
+framework was proposed for enhancing quality control in forensic
+Keywords found: Body fluid, RNA, Raman, Mixture / DNAmix, Likelihood Ratio / LR, FIGG / Genealogy
+
+--- Page 12 ---
+First few lines:
+was found unsuitable for post-mortem rectal samples (Müller et al.,
+2025). Cryopreservation methods were compared (Namaa et al., 2024).
+High-resolution melting quantitative PCR (HRM-qPCR) methods were
+used to analyze semen stains in casework (Nogueira et al., 2022).
+Methods for rapid documentation of possible semen stains were
+described (Thong et al., 2025).
+Sperm Cells. Advancements were reviewed for differentiating sperm
+from epithelial cells in sexual assault cases (Dash 2024). Approaches
+described in the literature included fluorescence-activated cell sorting
+(Fokias & Bekaert 2022), alkaline lysis methods (Forsberg et al., 2025),
+Keywords found: Body fluid, RNA, Mixture / DNAmix, MPS / NGS
+
+--- Page 13 ---
+First few lines:
+Automation processed backlogs in Brazil (Kortmann et al., 2024).
+Forensic aspects of condom evidence were reviewed (Nimi et al., 2024).
+Microscopical detection of spermatozoa was improved (Savage et al.,
+2024). Optimal timing for evidence collection from pediatric cases was
+determined to be less than 24 h (Wood et al., 2023).
+3.5. DNA processing
+The process of obtaining a DNA profile begins with collecting a
+biological sample and extracting DNA from it. Foundational and
+advanced resources continue to shape the field of DNA processing.
+Books, Review Articles, and Guidance. A new textbook introduced
+Keywords found: NIST, ENFSI, RNA, Extraction
+
+--- Page 14 ---
+First few lines:
+2022). Operational DNA recovery methods were compared, contrasting
+swabs versus tapelifts (Burmuzoska et al., 2022). The Pulse Lavage
+System was compared to forensic wet-vacuum collection (Chaudhry &
+Kavlick 2023). A holistic approach was proposed for the selection of
+forensic DNA swabs (Comment et al., 2023). A systematic review eval-
+uated swab materials used in forensic DNA testing (Conte et al., 2025).
+DNA sampling success was compared from steering wheels and car seats
+in tropical Australia (Gardiner & Krosch 2023). Three DNA collection
+methods were compared on Nile Red fluorescent areas of porous sub-
+strates (Hinojosa et al., 2023). Six adhesive tapes were compared for
+Keywords found: RNA, Extraction
+
+--- Page 15 ---
+First few lines:
+over 30 days (Alem et al., 2022). The impact of metal ions on forensic
+DNA analysis was explored (Bonsu et al., 2024). A chelation filtration
+method improved DNA recovery from fired cartridge casings (Crenshaw
+et al., 2024). The effects of copper and zinc ions on DNA profiling were
+compared (Czado et al., 2022), and recovery was evaluated from fired
+and unfired brass ammunition (Czado et al., 2024). Factors influencing
+DNA recovery from firearms were reviewed (Kaesler et al., 2023).
+Storage conditions were shown to impact DNA yield from ammunition
+cartridges (McElhoe et al., 2023). The proportion of DNA from the
+owner versus a brief handler of a firearm was examined (Oefelein et al.,
+Keywords found: RNA, Raman, Extraction, qPCR / Quantification, Direct PCR, Electrophoresis / Artifacts, Mixture / DNAmix
+
+--- Page 16 ---
+First few lines:
+et al., 2025). A theoretical framework (McDonald et al., 2024a) and
+practical application (McDonald et al., 2024b) were developed for a
+machine-learning 'smart' PCR thermocycler. A practical guide to PCR
+was published (McKinzie & Myers 2023). Molecular fracture of DNA
+chains after PCR heating cycles was investigated (Serpieri & Franchi
+2024). Direct amplification of body fluids was achieved using Micro-
+FLOQ direct swabs (Shadoff et al., 2024). A protocol was developed to
+improve touch DNA analysis using direct STR amplification (Snyder
+et al., 2025). Post-PCR purification methods were evaluated for low
+input DNA (Steele et al., 2024). The role of PCR inhibitors and facili-
+Keywords found: ENFSI, UK FSR, Body fluid, RNA, Extraction
+
+--- Page 17 ---
+First few lines:
+compared (Joseph et al., 2025). Cleaning protocols in forensic genetic
+laboratories were discussed (Kampmann et al., 2024). QR code tech-
+nology was used to introduce hands-on genotyping to medical students
+(Lai et al., 2023). Editorial considerations for publication in Forensic
+Science International: Genetics were outlined (Kayser et al., 2023). A
+multiplex assay was validated for detecting HIV-1, HBV, and human
+STRs on CE systems (Liu et al., 2025). A primer on understanding “ error”
+in forensic sciences was published (Martire et al., 2024). Student-driven
+research evaluated the SeqStudio Genetic Analyzer for educational use
+(McGregor et al., 2025). A guide to ISO 21043 was presented from the
+Keywords found: SWGDAM, NIST, ENFSI, RNA, Electrophoresis / Artifacts, Mixture / DNAmix
+
+--- Page 18 ---
+First few lines:
+artifacts [26].
+Books, Review Articles, and Guidance. In 2024, the ASB DNA
+Consensus Body released standards for the internal evaluation of inter-
+pretation protocols (ANSI/ASB 123), reporting DNA conclusions (ANSI/
+ASB 139), and handling failed controls and contamination events
+(ANSI/ASB 175). NIST published a comprehensive scientific foundation
+review of DNA mixture interpretation (Butler et al., 2024). Proceedings
+from a National Academies workshop addressed the law enforcement
+use of probabilistic genotyping and related technologies (Committee on
+Law and Justice 2024). Methods for likelihood ratio calculation using
+Keywords found: SWGDAM, OSAC, NIST, UK FSR, RNA, STR typing, Mixture / DNAmix, Likelihood Ratio / LR, MPS / NGS
+
+--- Page 19 ---
+First few lines:
+Low-Template DNA Interpretation. Strategies for low-level DNA
+focus on thresholds and sensitive detection methods. Analytical
+thresholds were optimized using insights from multi-laboratory negative
+controls (Chen et al., 2024). Interpretation considerations were outlined
+for low-level profiles following MinElute purification (Cooper et al.,
+2024). Amplification thresholds were optimized for low template DNA
+(Ido et al., 2025). Whole transcriptome shotgun sequencing identified
+individuals from low-template (LT) blood samples (Jepsen et al., 2024).
+Modifications for LT-DNA trace analysis were evaluated for efficiency
+(Parys-Proszek et al., 2022).
+Keywords found: NIST, ENFSI, RNA, Mixture / DNAmix, Likelihood Ratio / LR, MPS / NGS
+
+--- Page 20 ---
+First few lines:
+level propositions (Gill et al., 2025b). Accounting for interlaboratory
+data variability was discussed when performing evaluations given ac-
+tivities (Taylor et al., 2025).
+Activity Level Evaluations. Case reports and surveys illustrate the
+practical application of activity-level interpretation. Activity-level
+propositions were applied in a murder case in Austin, Texas (Buckle-
+ton 2025) and Boston (Kalafut et al., 2025). Published recommendations
+for reporting the value of biological findings were discussed (Buckleton
+et al., 2025a). Interpreting DNA under fingernails given activity level
+propositions was explored (Buckleton et al., 2025b). A conjunctive
+Keywords found: RNA, qPCR / Quantification
+
+--- Page 21 ---
+First few lines:
+characterized in 6487 human genomes (Shi et al., 2023). Polymorphism
+and structure were analyzed for a Han-Chinese population from Luzhou
+(Song et al., 2023). Genetic variation was studied among siblings of
+Madurese living in Surabaya (Yudianto et al., 2023). A reference data-
+base was created for populations in Burkina Faso (Zeye et al., 2024).
+Finally, data were published for the Tawahka ethnic group in Honduras
+(Zuniga et al., 2025).
+STR Allele Sequence Data. Massively parallel sequencing is
+providing high-resolution allele data. An overview of autosomal STRs
+and SNPs was provided for a Norwegian population (Agudo et al., 2024).
+Keywords found: SWGDAM, RNA, MPS / NGS
+
+--- Page 22 ---
+First few lines:
+DNA examinations were performed in 40% of human bone finds with
+81% of these yielding STR profiles (Ohlw¨ arther et al., 2024). Forensic
+genetic programs for missing person identification in humanitarian
+contexts were reviewed (Orozco 2025). Physical and molecular an-
+thropology were combined to profile unidentified migrants (Pilli et al.,
+2023). Public and family support for providing DNA in long-term
+missing persons cases was surveyed (Russell et al., 2023a), identifying
+main concerns and policy implications (Russell et al., 2023b). Chal-
+lenges of migrant mortality accounting in Texas were discussed (Siegert
+et al., 2024). The Australian approach to unidentified and missing per-
+Keywords found: RNA, Extraction, Likelihood Ratio / LR, MPS / NGS
+
+--- Page 23 ---
+First few lines:
+distinguished twins' blood samples (Meng et al., 2023). A SNP-based
+approach was developed for non-invasive prenatal paternity testing
+(Qu et al., 2024). NGS was used to differentiate twins (Skrant et al.,
+2023). Single-nucleotide variants were used for twin discrimination
+(Sun et al., 2024). A case was reported in dizygotic twins of hetero-
+paternal superfecundation, which is the fertilization of two oocytes by
+different spermatozoa within the same ovulatory cycle (Timasheva &
+Tuktarova 2025). A monozygotic twin was identified as a donor in a
+mixed stain case (van der Gaag et al., 2025). Circular RNA expression
+profiles were used to distinguish twins (Wang et al., 2024). MicroRNA
+Keywords found: RNA, Extraction, Electrophoresis / Artifacts, Mixture / DNAmix, MPS / NGS, Phenotyping / FDP
+
+--- Page 24 ---
+First few lines:
+MPS Kit Development and Validation Studies. Validation studies
+for commercial and custom MPS kits have demonstrated their robustness
+and sensitivity. A forensic evaluation of the ForenSeq DNA Signature
+Prep Kit in a Mexican admixed population compared DNA primer sets A
+and B (Aguilar-Vel´azquez et al., 2025), and the ForenSeq MainstAY
+assay was examined for forensic use (Cabrejas-Olalla et al., 2025).
+Developmental validation was completed for the IDseek OmniSTR
+global autosomal STR profiling kit (de Jong et al., 2025). Sequencing of
+human autosomal STR orthologs was shown to provide individual and
+species identification in African great apes (Fedele et al., 2024). Auto-
+Keywords found: SWGDAM, NIST, RNA, Raman, STR typing, Mixture / DNAmix, MPS / NGS
+
+--- Page 25 ---
+First few lines:
+QNome technology (Yang et al., 2024) and the rapid identification of an
+18-STR long amplicon panel using portable devices (Zhang et al., 2025).
+4.2. DNA phenotyping and methylation
+Methods for forensic DNA phenotyping (FDP) have been explored to
+predict ancestry, appearance, and age of the individual who is the source
+of biological evidence under investigation. In addition to age prediction,
+DNA methylation analysis has been used for lifestyle prediction, such as
+smoking habits.
+Books, Review Articles, and Guidance. A comprehensive review
+detailed computational methods and tools for identifying phenotypi-
+Keywords found: RNA, Mixture / DNAmix, MPS / NGS, Phenotyping / FDP, FIGG / Genealogy
+
+--- Page 26 ---
+First few lines:
+system in an Italian population (Gentile et al., 2022). Facial hair-
+associated SNPs were evaluated in a pilot study on a male Pakistani
+Punjabi population (Jawad et al., 2023). The morphology and genetics
+of scalp and facial hair were investigated for phenotype prediction
+(Kataria et al., 2023). Machine learning models were applied to predict
+eye color in Latin American populations (Martínez et al., 2025). A quasi-
+landmark mesh was used to decode the upper facial region from DNA
+(Navarro L´ opez et al., 2025), and associations between SNPs and facial
+morphology were explored in a Spanish population (Navarro-L´ opez
+et al., 2025). Assays were evaluated for predicting ear morphology
+Keywords found: RNA, qPCR / Quantification
+
+--- Page 27 ---
+First few lines:
+Books, Review Articles, and Guidance. Guidance and reviews
+have solidified the standards for lineage marker analysis. X-chromosome
+STRs were reviewed for their utility in human identification, high-
+lighting their specific value in complex kinship cases (Alwi et al., 2023).
+Lineages between individuals were determined using high-density
+mitochondrial and Y-chromosomal SNPs (Chiao & Ge 2024). Protocols
+for mitochondrial DNA analysis were detailed in a methods volume
+(Cooley 2023), and the UK Forensic Science Regulator published
+updated guidance on Y-STR profiling (Forensic Science Regulator 2025).
+The application of NGS for analyzing maternal genomes in ancient
+Keywords found: SWGDAM, RNA, Mixture / DNAmix, MPS / NGS
+
+--- Page 28 ---
+First few lines:
+the South African population (Whittaker & Heathfield 2024).
+Internal validation studies were performed for reduced PCR reaction
+volumes of the Argus X-12 QS Kit (Alwi et al., 2023). Issues of mutation
+assignment between X- and autosomal STRs were investigated (Ant˜ ao-
+Sousa et al., 2022). A practical proposal was made for interpreting X-
+STR profiles from the ForenSeq kit (Cort´es-Trujillo et al., 2025, Wepeba
+& Goodwin 2025). Mathematical frameworks were developed for
+quantifying X-chromosomal evidence in cases of trisomy X (Faustino
+et al., 2022, Faustino et al., 2025). New multiplex systems were con-
+structed, including a 13-locus system for the Malay population (Mina-
+Keywords found: NIST, Body fluid, RNA, Extraction, Mixture / DNAmix, Single-cell
+
+--- Page 29 ---
+First few lines:
+et al., 2024). Annealing temperatures were shown to significantly affect
+16S rRNA gene-amplicon sequencing results when analyzing the bac-
+terial community on canine skin (Apostolopoulos et al., 2023). Microbes
+in fingerprints were investigated for potentially distinguishing fresh
+versus aged latent fingerprints (De Alcaraz-Fossoul et al., 2023), and the
+"Sexome" study demonstrated microbial transfer between couples
+(Dixon et al., 2023). Metagenomics showed promise in predicting job
+occupations (Dou et al., 2023) and assisting human identification
+(Franceschetti et al., 2024). Methods for bacterial identification were
+compared using the ONT MinION sequencer (Graham et al., 2024).
+Keywords found: RNA, Mixture / DNAmix, Single-cell
+
+--- Page 30 ---
+First few lines:
+Books, Review Articles, and Guidance. New standards and re-
+sources have been published to formalize wildlife forensic practices. A
+new standard, ANSI/ASB 180, was established for the selection and
+evaluation of GenBank results to ensure accurate taxonomic assignment
+in wildlife forensics (ASB Wildlife Forensics Consensus Body 2024).
+Another standard, ANSI/ASB 216, was also published detailing the re-
+quirements for constructing multilocus databases in wildlife forensic
+science (ASB Wildlife Forensics Consensus Body 2025). The second
+edition of a text describing principles and applications of forensic botany
+to criminal casework was updated (Coyle 2024). A review of biological
+Keywords found: OSAC, RNA, Extraction, Mixture / DNAmix, MPS / NGS
+
+--- Page 31 ---
+First few lines:
+lateral flow dipsticks (Sun et al., 2024). A screening assay based on PCR
+amplification of cytochrome b was used for classifying animals in the
+Cervus genus (Suraphak et al., 2024). CO1 analysis identified fly artifacts
+and fly species at a murder scene with numerous bloodstains (Takayama
+et al., 2023). A guide was provided for the analysis of DNA-based species
+identification in forensic casework (Webster et al., 2024). A fluorescence
+PCR assay was developed and tested for species classification of ten
+animals (Xia et al., 2025). Forensically important insects recovered from
+human corpses in Taiwan were studied (Yan et al., 2023). NanoSSID, a
+bioinformatics pipeline, was introduced for species classification in
+Keywords found: OSAC, RNA, Raman, Extraction
+
+--- Page 32 ---
+First few lines:
+discriminating between African and Asian elephant ivory (Thana-
+kiatkrai et al., 2024). A review highlighted the lack of human-focused
+forensic evidence in the context of wildlife crime investigations
+(Thomas et al., 2023). Forensic genetics associated with hair analysis
+served as a tool for jaguar classification (Tremori et al., 2024). DNA-
+based classification was performed on big cats and traditional Chinese
+medicine artifacts in the Czech Republic (Vankova & Vanek 2022). The
+Sunda pangolin was detected for the first time in illegal wildlife seizures
+from northeast India (Wangmo et al., 2024). Genetic classification of
+prey was achieved through oral swabs of predators (Young et al., 2023).
+Keywords found: SWGDAM, NIST, RNA, Mixture / DNAmix, Likelihood Ratio / LR, Phenotyping / FDP, FIGG / Genealogy
+
+--- Page 33 ---
+First few lines:
+[38] Scientific Working Group on DNA Analysis Methods, SWGDAM Interpretation
+Guidelines for Mitochondrial DNA Analysis by Forensic DNA Testing
+Laboratories, 2024. https://www.swgdam.org/_files/ugd/4344b0_9784320e
+1188491fbdd0dbf040ca69ae.pdf.
+[39] Scientific Working Group on DNA Analysis Methods, SWGDAM Supplemental
+Information for the SWGDAM Interpretation Guidelines for Mitochondrial DNA
+Analysis by Forensic DNA Testing Laboratories, 2024. https://www.swgdam.org/
+_files/ugd/4344b0_746ea923d6f74ea595ae0264e2d8c4a9.pdf.
+[40] Scientific Working Group on DNA Analysis Methods, SWGDAM Guidelines for
+Missing Persons Casework, 2024. https://www.swgdam.org/_files/ugd/4344b
+Keywords found: SWGDAM, OSAC, NIST, UK FSR, RNA, STR typing, Mixture / DNAmix, Likelihood Ratio / LR, MPS / NGS, FIGG / Genealogy
+
+--- Page 34 ---
+First few lines:
+https://www.gov.uk/government/publications/dna-contamination-controls-f
+orensic-medical-examinations/dna-contamination-controls-forensic-medical-e
+xaminations-accessible.
+[80] Forensic Science Regulator, UK Forensic Science Regulator Guidance: Forensic
+Science Activities: Statutory Code of Practice - Version 2, 2025. https://www.gov.
+uk/government/publications/forensic-science-activities-statutory-code-of
+-practice-version-2/forensic-science-activities-statutory-code-of-practice-versio
+n-2-accessible.
+[81] Forensic Science Regulator, UK Forensic Science Regulator Guidance: Methods
+Employing Rapid DNA Devices (FSR-GUI-0015), 2025. https://www.gov.uk/gov
+Keywords found: ENFSI, UK FSR, RNA, FIGG / Genealogy

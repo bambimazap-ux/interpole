@@ -1,0 +1,77 @@
+Page 1 (Line 4) [UPPERCASE]: A R T I C L E I N F O
+Page 1 (Line 6) [UPPERCASE]: DNA
+Page 1 (Line 10) [UPPERCASE]: A B S T R A C T
+Page 1 (Line 35): 1. Introduction
+Page 2 (Line 22): 1. Forensic Science International: Genetics (250)
+Page 2 (Line 23): 2. International Journal of Legal Medicine (110)
+Page 2 (Line 24): 3. Forensic Science International (98)
+Page 2 (Line 25): 4. Journal of Forensic Sciences (78)
+Page 2 (Line 26): 5. Genes (70)
+Page 2 (Line 27): 6. Electrophoresis (48)
+Page 2 (Line 28): 7. Australian Journal of Forensic Sciences (41)
+Page 2 (Line 29): 8. Forensic Genomics (40)
+Page 2 (Line 30): 9. Science & Justice (39)
+Page 2 (Line 31): 10. Forensic Science International: Synergy (34)
+Page 2 (Line 38): 1.1. A curated reference list sorted by categories
+Page 2 (Line 72): 1.2. Exploration and use of AI tools
+Page 3 (Line 27): 2. General resources
+Page 3 (Line 34): 2.1. Books and major reports
+Page 3 (Line 44): 2.2. Special issues of journals
+Page 3 (Line 55): 2.3. Key conferences and published proceedings
+Page 4 (Line 36): 2.4. Guidance documents
+Page 4 (Line 44): 2.4.1. FBI, SWGDAM, and other US DOJ activities
+Page 4 (Line 57) [UPPERCASE]: (NISTIR 8351)
+Page 4 (Line 90) [UPPERCASE]: DNA
+Page 4 (Line 191): 5 See https://www.aafs.org/research/annual-conference-proceedings.
+Page 4 (Line 192): 6 For ISHI Conference Proceedings from 1998 to 2019, see https://www.
+Page 4 (Line 198): 10 See https://www.nationalacademies.org/event/41774_03-2024_law-enfo
+Page 4 (Line 201): 11 See https://www.swgdam.org/.
+Page 6 (Line 39): 2.4.2. OSAC and ASB activities
+Page 6 (Line 92) [UPPERCASE]: ENFSI DNA
+Page 6 (Line 93) [UPPERCASE]: WG
+Page 6 (Line 98) [UPPERCASE]: ENFSI DNA
+Page 6 (Line 99) [UPPERCASE]: WG
+Page 6 (Line 105) [UPPERCASE]: ENFSI DNA
+Page 6 (Line 106) [UPPERCASE]: WG
+Page 6 (Line 111) [UPPERCASE]: ENFSI DNA
+Page 6 (Line 112) [UPPERCASE]: WG
+Page 6 (Line 134) [UPPERCASE]: ISFG DNA
+Page 6 (Line 167) [UPPERCASE]: ISO 21043-
+Page 6 (Line 172) [UPPERCASE]: ISO 21043-
+Page 6 (Line 175) [UPPERCASE]: ISO 21043-
+Page 6 (Line 180) [UPPERCASE]: ISO 21043-
+Page 7 (Line 41): 2.4.3. NIST publications
+Page 7 (Line 81): 2.4.4. ASTM
+Page 7 (Line 90): 2.4.5. NTVIC and IGGAB
+Page 8 (Line 5): 2.4.6. UK Forensic Science Regulator
+Page 8 (Line 16): 2.4.7. European Union and ENFSI
+Page 8 (Line 23): 2.4.8. Australia and New Zealand
+Page 8 (Line 31): 2.4.9. Other international efforts
+Page 8 (Line 73): 3. Advances in current practices
+Page 8 (Line 87): 3.1. Rapid DNA analysis
+Page 8 (Line 119): 25 ISO/TC 272 Forensic sciences: https://www.iso.org/committee/4395817.
+Page 9 (Line 40): 3.2. DNA databases and ethics
+Page 10 (Line 48): 3.3. Forensic investigative genetic genealogy
+Page 11 (Line 45): 3.4. Forensic biology and body fluid identification
+Page 13 (Line 6): 3.5. DNA processing
+Page 16 (Line 23): 3.6. DNA typing with short tandem repeat markers
+Page 17 (Line 120): 3.7. DNA interpretation at the sub-source or source level
+Page 19 (Line 21): 3.8. DNA interpretation at the activity level
+Page 20 (Line 32): 3.9. Statistics and population genetic data
+Page 21 (Line 23): 132 SNP markers was performed using the FGID kit (Zhen et al., 2024).
+Page 21 (Line 24): 3.10. Human identification and kinship analysis
+Page 23 (Line 29): 4. Emerging technologies and Research studies
+Page 23 (Line 37): 4.1. Next-generation sequencing and technology developments
+Page 25 (Line 3): 4.2. DNA phenotyping and methylation
+Page 26 (Line 125): 4.3. Lineage markers
+Page 28 (Line 14): 4.4. New markers and approaches
+Page 29 (Line 125): 4.5. Non-human DNA testing and wildlife forensics
+Page 30 (Line 34): 2.1 Kit on purebred dogs in Japan (Kunita et al., 2024). A novel 30-plex
+Page 32 (Line 23): 2025. Rachel Eck and Susan Makar of the NIST Library provided helpful
+Page 32 (Line 80) [UPPERCASE]: 10.1016/C2021-0-01718-1.
+Page 32 (Line 104): 2025. Self-published.
+Page 32 (Line 111) [UPPERCASE]: 10.6028/NIST.IR.8351.
+Page 33 (Line 61) [UPPERCASE]: 10.6028/NIST.SP.1319.
+Page 33 (Line 77) [UPPERCASE]: NIST.SP.1500-33C.
+Page 33 (Line 90): 18 November 2025).
+Page 34 (Line 24) [UPPERCASE]: /07/DNA-GDL-004-GUIDELINE-FOR-DNA-DATABASE-MANAGEMENT-REVIE

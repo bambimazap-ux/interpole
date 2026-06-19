@@ -1,0 +1,812 @@
+
+================ PAGE 18 ================
+artifacts [26].
+Books, Review Articles, and Guidance. In 2024, the ASB DNA 
+Consensus Body released standards for the internal evaluation of inter-
+pretation protocols (ANSI/ASB 123), reporting DNA conclusions (ANSI/ 
+ASB 139), and handling failed controls and contamination events 
+(ANSI/ASB 175). NIST published a comprehensive scientific foundation 
+review of DNA mixture interpretation (Butler et al., 2024). Proceedings 
+from a National Academies workshop addressed the law enforcement 
+use of probabilistic genotyping and related technologies (Committee on 
+Law and Justice 2024). Methods for likelihood ratio calculation using 
+LRmix Studio were detailed (Foley 2023). The UK Forensic Science 
+Regulator issued guidance on proficiency testing for mixture analysis 
+(FSR-G-224-Forensic Science Regulator 2024), software validation 
+(FSR-G-223-Forensic Science Regulator 2024), and general mixture 
+interpretation (FSR-G-222-Forensic Science Regulator 2024). OSAC 
+released Technical Guidance Document 0009 as an exemplar for human 
+forensic DNA reporting (OSAC Human Forensic Biology 2025) and an 
+assessment guide for the ASB Standard 040 (OSAC Human Forensic 
+Biology 2022). SWGDAM published updated guidelines for using prob-
+abilistic genotyping (SWGDAM 2025a) and reporting likelihood ratios 
+(SWGDAM 2025b). Additionally, a NIST report focused on improving 
+forensic DNA interpretation through a systems approach to human 
+factors (Taylor and Expert Working Group 2024).
+DNA Interpretation in General. Microchimerism was reviewed as a 
+potential complicating factor in forensic science (Arslan 2025). The 
+relationship between back stutter and double back stutter rates was 
+investigated (Asogawa 2025). The necessity of Y-STR loci DYS570 and 
+DYS576 in the PowerPlex Fusion 6C panel for mixture analysis was 
+questioned (Ausania et al., 2025). Previous casework data were utilized 
+to aid decision-making in interpretation (Benschop et al., 2022). The 
+concept of "scientific imperialism" in judicial settings was critiqued 
+(Biedermann & Kotsoglou 2025). The ISO 21043 standard was 
+welcomed as a global benchmark for interpretation (Berger 2025). Case 
+studies demonstrated solutions for interpreting trace amounts of 
+degraded DNA mixtures (Chen et al., 2024). Body-wide chimerism and 
+mosaicism were identified as primary causes of ABO discrepancies 
+(Dauber et al., 2024). The accuracy of mixture analysis was found to 
+decrease for groups with lower genetic diversity (Flores et al., 2024). 
+Droplet digital PCR was used to discover unbalanced mixtures and 
+evaluate mixing ratios (Fu et al., 2025). Bayesian inference was used to 
+evaluate the effect of aging on stutter ratios (Inokuchi et al., 2023). The 
+importance of optimizing thresholds was emphasized (Simon & Smith 
+2024). STR typing was performed on skin swabs from individuals after 
+allogeneic hematopoietic stem cell transplantation (von M´ari´assy et al., 
+2023).
+AI Efforts to Assist in DNA Interpretation. Artificial intelligence 
+and machine learning are increasingly being integrated into interpre-
+tation workflows. A critical review examined machine learning appli-
+cations in forensic DNA profiling (Barash et al., 2024). The need for 
+interpretable algorithmic forensics was highlighted (Garrett & Rudin 
+2023). AI applications in forensic biology were detailed in a book 
+chapter (Gupta et al., 2024). Ethical and security challenges, including 
+bias and adversarial attacks, were discussed (Marsico & Amigo 2025). 
+Deep learning approaches for DNA profiling were replicated and eval-
+uated (Sangiovanni et al., 2025). Current applications and future per-
+spectives of AI in forensic genetics were reviewed (Sessa et al., 2024). A 
+narrative review discussed AI in the context of identifying the deceased 
+(Siwan et al., 2025). Explainable AI was applied to allele identification 
+in challenging electropherograms (Tan et al., 2025). Artificial neural 
+network classification was combined with probabilistic genotyping to 
+remove the need for analytical thresholds (Taylor & Buckleton 2023). A 
+"lights-out" (fully automated) analysis workflow was proposed for no-
+suspect crime samples (Taylor & Abarno 2023). AI-driven human 
+identification from skeletal remains was demonstrated (Valsecchi et al., 
+2023). Efforts to make AI accessible for forensic DNA profile analysis 
+were described (de Wit et al., 2026).
+Estimating the Number of Contributors. Accurately determining 
+the number of contributors (NoC) remains a critical step in mixture 
+analysis. The impact of considering different numbers of contributors on 
+identification problems was analyzed in real casework mixtures (Costa 
+et al., 2025). A simple Excel-based tool, eNoC, was introduced to 
+improve NoC assignment (Thomson et al., 2022).
+DNA Mixtures with Probabilistic Genotyping Software. Proba-
+bilistic genotyping software (PGS) is central to modern mixture inter-
+pretation. The value of mixture-to-mixture comparisons was assessed in 
+an operational context (Basset et al., 2024). A DNA decision support tool 
+was evaluated to bridge expertise and data-driven approaches (Ben-
+schop et al., 2025a). An automated workflow using PGS-based database 
+searching provided fast reports for investigative leads (Benschop et al., 
+2025b). The exonerating power of "what isn't there" in mixture evidence 
+was discussed (Brenner 2025). Primary differences between EuroForMix 
+and STRmix were diagnosed (Buckleton et al., 2024a), and in-
+consistencies in forensic decisions were further discussed (Buckleton 
+et al., 2024b). The impact of drop-out on likelihood ratios was evaluated 
+using continuous approaches (Cagli`a et al., 2025). Developmental vali-
+dation studies were conducted on a new version of STRmix for inter-
+preting next-generation sequencing (NGS)-generated profiles (Cheng 
+et al., 2023). Differences in results from the same software were 
+analyzed (Costa et al., 2022). EuroForMix was validated at the Brazilian 
+Federal Police for complex profiles (Duarte et al., 2025). A three-person 
+mixture was solved using a sample from a relative (G´ omez et al., 2025). 
+Two widely used PGS systems in the US were compared (Greenspoon 
+et al., 2024). A maximum likelihood ratio algorithm was proposed for 
+three-contributor mixtures (Guo et al., 2024). Random forest regression 
+predicted LR values for database searching (Hu et al., 2025). Whole-
+genome amplification improved contributor assignment in touch DNA 
+mixtures (Hwa et al., 2025). An STR mixture analysis and resolution tool 
+(SMART) was introduced for mixture interpretation (Ji et al., 2025). 
+Commentary addressed uncertainty in PGS for low-template DNA 
+(Thompson 2023, Kalafut et al., 2024, Perlin et al., 2024). Uncertain 
+assumptions in DNA evidence evaluation were addressed (Kruijver et al., 
+2023). An R-shiny package, KongohPlus, was developed for MCMC-
+based software (Manabe et al., 2025). Calibration and discrimination 
+performance were evaluated for "low" LRs (McCarthy-Allen et al., 2024) 
+and for DNAStatistX (McCarthy-Allen et al., 2025). LRs from PGS were 
+compared across different assays and instruments (McNevin & Barash 
+2024). EuroForMix was re-evaluated for deconvolution and weight-of-
+evidence computing (Minervino et al., 2025). Ambiguity and con-
+tested expertise in probabilistic profiling were analyzed sociologically 
+(Pullen-Blasnik et al., 2024). A collaborative study assessed the preci-
+sion of Markov chain Monte Carlo (MCMC) algorithms (Riman et al., 
+2024). LRs from EuroForMix and STRmix were compared for two- and 
+three-contributor profiles (Saccente et al., 2025). The infringement of 
+the presumption of innocence by evaluative probabilistic reporting was 
+debated (Sallavaci 2025). LRs from STR sequencing and CE were 
+compared for complex mixtures (Sidstedt et al., 2025). A guiding prin-
+ciple was proposed to identify the best supported propositions in 
+mixture interpretation (Slooten et al., 2025). Similarities and differences 
+between MPS and CE data were analyzed for their impact on LR calcu-
+lations (van der Gaag et al., 2025). Compound likelihood ratios were 
+investigated (Wivell et al., 2023), and mixture detection performed 
+using Demixtify (Woerner et al., 2024).
+Interlaboratory Studies on DNA Mixtures. Collaborative studies 
+have highlighted variability and consensus in mixture interpretation. An 
+interlaboratory comparison evaluated PGS parameters and performance 
+(Boodoosingh et al., 2024). The DNAmix 2021 study provided a dataset 
+on laboratory policies and procedures (Brinkac et al., 2023), revealing 
+variation in assessments of suitability and number of contributors 
+(Hicklin et al., 2023) and in interpretations and statistical analyses 
+(Hicklin et al., 2025). Propositions used to assess mixtures were 
+analyzed in an FSWG-ISFG interlaboratory comparison (Samie et al., 
+2025).
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+18 
+
+
+================ PAGE 19 ================
+Low-Template DNA Interpretation. Strategies for low-level DNA 
+focus on thresholds and sensitive detection methods. Analytical 
+thresholds were optimized using insights from multi-laboratory negative 
+controls (Chen et al., 2024). Interpretation considerations were outlined 
+for low-level profiles following MinElute purification (Cooper et al., 
+2024). Amplification thresholds were optimized for low template DNA 
+(Ido et al., 2025). Whole transcriptome shotgun sequencing identified 
+individuals from low-template (LT) blood samples (Jepsen et al., 2024). 
+Modifications for LT-DNA trace analysis were evaluated for efficiency 
+(Parys-Proszek et al., 2022).
+Communicating Forensic Findings Effective communication of 
+complex statistical results to lay audiences remains a challenge. Mock 
+juror evaluations of conclusion formats were explored (Bali & Martire 
+2025). Commentary was provided on joint recommendations for 
+biostatistical evaluation (Berger et al., 2024). German project groups 
+published recommendations on biostatistical evaluation with fully 
+continuous models (Hahn et al., 2023, Templin et al., 2023) and mixture 
+deconvolution using EuroForMix (Schiller et al., 2025). Finally, re-
+searchers investigated whether explaining the meaning of likelihood 
+ratios improves lay understanding (Thompson et al., 2025).
+3.8. DNA interpretation at the activity level
+When investigators want to explore how or when an individual's DNA 
+became associated with a crime scene, they may attempt to evaluate the 
+evidence given activity-level propositions. This approach, sometimes 
+referred to as evaluative reporting, is dependent on many variables 
+including probabilities of DNA transfer, persistence, prevalence, and 
+recovery (TPPR). This topic is an active area of research and was dis-
+cussed in the two 2024 NIST reports [25,26].
+Books, Review Articles, and Guidance. Guidance documents and 
+texts are increasingly focusing on the interpretation of DNA evidence at 
+the activity level. German recommendations were published for forensic 
+expertise regarding indirect DNA transfer and its consideration in court 
+proceedings (F¨ orster et al., 2023). Minimum requirements for publish-
+ing data on DNA transfer and recovery given activities were established 
+(Gill et al., 2026). A comprehensive book detailed interpretation of trace 
+forensic DNA evidence using activity-level propositions and likelihood 
+ratios (Kokshoorn & Taylor 2023). A literature review covered indirect 
+DNA transfer and its forensic implications (Sessa et al., 2023). Another 
+text focused specifically on forensic DNA transfer (Taupin 2023). The 
+benefits and limitations of nucleic acid persistence were also reviewed
+( ˙Zarczy´ nska et al., 2023).
+Studies on Shedder Status. Understanding individual variation in 
+shedding DNA is crucial for activity-level interpretation. Popular 
+shedder tests were compared to determine the best assessment method 
+(Ali et al., 2025). The efficacy of Diamond nucleic acid dye-stained cell 
+counting was evaluated for forensic applications (Goray et al., 2024). 
+The consistency of shedder status was assessed under various experi-
+mental conditions (Jansson et al., 2024). A meta-analysis investigated 
+the individual propensity to shed skin material in the context of trace 
+analysis (Koch et al., 2025). Touch DNA viability on various substrates 
+was examined relative to different shedder levels (Saamia et al., 2024). 
+An interaction timeline was used to investigate factors related to 
+shedder status (Taylor et al., 2025).
+DNA Transfer Study Design. Innovative experimental designs are 
+improving the study of transfer mechanisms. An experimental design 
+and qPCR assay were developed to identify primary, secondary, and 
+tertiary DNA transfer (McCrane & Mulligan 2023, McCrane & Mulligan 
+2024). Methods were determined for sampling background areas to 
+provide the greatest support for a person of interest in a target sample 
+(Reither et al., 2024). A cellular target was developed and characterized 
+for tracking transfers of biological traces (Sauvag`ere et al., 2025). 
+DNA Transfer Dynamics and Scenarios. Research has explored 
+DNA transfer in diverse scenarios to aid casework interpretation. The 
+impact of deposition area and time on touch DNA collected from fabric
+was studied (Alketbi & Goodwin 2022). DNA transfer was tracked in a 
+social setting (Cahill et al., 2024). Glove-mediated transfer was inves-
+tigated in burglary simulations (Carrara et al., 2023) and forensic 
+casework (Mehta and Alketbi 2025). A case of contamination by indirect 
+transfer in a sexual assault case was reported (Castella et al., 2025). Male 
+DNA transfer and survival under female victim fingernails were tracked 
+in a scratch simulation (Damour et al., 2025). Male DNA transfer onto 
+female underwear was examined in simulated non-sexual social in-
+teractions versus digital penetration (Doole et al., 2023). Indirect 
+transfer mechanisms of semen were evaluated under varying conditions 
+(Finnis et al., 2024). DNA transfer during a slap and punch was analyzed 
+(Galea et al., 2025). Saliva-derived secondary transfer on fabric was 
+studied under varying conditions (Gegar et al., 2024). Parallel strategies 
+using DNA and scanning electron microscopy analysis were applied to 
+transfer and recovery of DNA and metal particles (Giorgetti et al., 2024). 
+Garment cleaning protocols were tested for loss and re-location of traces 
+(Gl´eonec et al., 2024). Self- and non-self-DNA were analyzed on hands 
+and sleeve cuffs (Henry & Zieger 2024). Microbiota marker transfer from 
+hand to knife was preliminarily studied (Karadayı et al., 2024). DNA 
+transfer between items within an evidence package was assessed (Lee & 
+Syn 2025), as was transfer on drug packages in simulated settings (Li 
+et al., 2025) and in packaging generally (Stella et al., 2022). DNA 
+transfer in washing machines was analyzed with different detergents 
+(Lozano-García et al., 2025). Recovery methods were compared for 
+worn hooded sweatshirts before and after use by a second wearer 
+(Meakin et al., 2024). DNA accumulation and transfer were measured 
+within an operational forensic exhibit storeroom (Mercer et al., 2023). 
+DNA consistent with the known owner was quantified on law 
+enforcement-owned firearms (Oefelein et al., 2025). Trace DNA transfer 
+on a credit card was evaluated using Bayesian networks (Onofri et al., 
+2023). Transfer to drug packaging and knives in houses was studied 
+(Reither et al., 2023). Transfer between contacting surfaces when both 
+have DNA on them was investigated, with a subsequent corrigendum 
+issued (Sallows et al., 2025). The impact of liquid antibacterial soap and 
+hand sanitizer on transfer was studied (Sessa et al., 2024). Degradation 
+of bloodstains on fabric caused by washing was analyzed (Stojanovi´c 
+et al., 2024). DNA on interior door handles was examined (Ti`eche et al., 
+2022). After resumed use by the owner, DNA transfer and persistence 
+were studied in an office space that had been visited by an intruder 
+(Zacher et al., 2022, Zacher et al., 2024).
+Animal-Mediated DNA Transfer. Animals can act as vectors for 
+human DNA transfer. The presence of human DNA on cats was investi-
+gated (Monkman et al., 2022), as well as their role in human DNA 
+transfer (Monkman et al., 2025a). Human DNA on household dogs and 
+its bi-directional transfer were studied (Monkman et al., 2023, Monk-
+man et al., 2025b). Video analysis of human-animal interactions was 
+explored for forensic identification use (Monkman et al., 2024). Transfer 
+and persistence of owner DNA on domestic pets were also analyzed 
+(Oefelein et al., 2025).
+Environmental Factors Impacting DNA Persistence. Studies have 
+assessed how environmental conditions affect DNA stability on various 
+substrates. A long-term study investigated trace DNA persistence on 
+non-metals (Arsenault et al., 2025). The impact of temperature and 
+humidity on semen persistence was evaluated (Beveridge et al., 2025). 
+Substrate characteristics were shown to impact biological material 
+collection and persistence (Hughes et al., 2024). Persistence of touch 
+DNA was studied under different storage conditions (Kaesler et al., 
+2023). DNA transfer and persistence were examined on non-porous 
+surfaces submerged in spring water (Korzik et al., 2023). Persistence 
+of cellular material after water exposure was analyzed (Nolan et al., 
+2023). Invisible biological traces were detected in relation to substrate 
+physicochemical properties (Recipon et al., 2024).
+Interlaboratory Data. Large-scale collaborative projects are seeking 
+to standardize activity-level methods. The ENFSI ReAct project reported 
+results from a large consortium investigation (Gill et al., 2025a) and 
+characterized DNA recovery data from 23 laboratories given activity-
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+19 
+
+
+================ PAGE 20 ================
+level propositions (Gill et al., 2025b). Accounting for interlaboratory 
+data variability was discussed when performing evaluations given ac-
+tivities (Taylor et al., 2025).
+Activity Level Evaluations. Case reports and surveys illustrate the 
+practical application of activity-level interpretation. Activity-level 
+propositions were applied in a murder case in Austin, Texas (Buckle-
+ton 2025) and Boston (Kalafut et al., 2025). Published recommendations 
+for reporting the value of biological findings were discussed (Buckleton 
+et al., 2025a). Interpreting DNA under fingernails given activity level 
+propositions was explored (Buckleton et al., 2025b). A conjunctive 
+analysis examined the role of context in homicide investigations 
+involving DNA (Chamberlain et al., 2024). Serum cortisol and StAR gene 
+expression were evaluated as biomarkers for the nature of sexual acts 
+(Dash et al., 2025). Education and interpretation challenges were 
+compared between source and activity issues (Hicks et al., 2025). 
+Reporting practices for activity-level issues in the Netherlands were 
+described (Kokshoorn & Luijsterburg 2023). Alternate hypotheses 
+involving the transfer and persistence of saliva beneath fingernails were 
+explored (Matte et al., 2023). Baselines for background DNA in new 
+underwear were established for evaluative reporting (Oefelein et al., 
+2024). A global survey assessed evaluative reporting on DNA evidence 
+with regard to activity-level propositions (Prinz et al., 2024). Com-
+mentary was provided on a Texas Forensic Science Commission report 
+regarding a complaint about activity-level evaluation (Roy 2025). 
+Bayesian networks were used to evaluate DNA results in a fatal car ac-
+cident to determine the identity of the driver (Samie et al., 2025). Bar-
+riers to global adoption of forensic evaluative reporting were identified 
+(Stacey et al., 2025). Sensitivity analyses in activity-level evaluations 
+were treated practically (Taylor et al., 2024a). Finally, site-to-site DNA 
+transfer on packaged exhibits was accounted for in evaluations (Taylor 
+et al., 2024b).
+3.9. Statistics and population genetic data
+This section summarizes efforts over the previous three years in 
+population genetics related to forensic DNA and STR allele frequency 
+population data.
+Books, Review Articles, and Guidance. Guidance documents and 
+other texts have reinforced the statistical framework for DNA evidence. 
+The UK Forensic Science Regulator published guidance on allele fre-
+quency databases and reporting for STR profiling (Forensic Science 
+Regulator 2024). To strengthen the use of forensic science evidence, 
+informational scientific primers were created for officers of the court 
+(Jones et al., 2025). A review discussed how statistics, including likeli-
+hood ratios and graphical models, can aid forensic science (Xu & Vinci 
+2024).
+Statistical Methods and Population Genetics. Research has 
+refined statistical models and addressed ethical and practical challenges 
+in population genetics. A qualitative assessment explored forensic sci-
+entists' perceptions of statistical models, sequence data, and ethical 
+implications (Aalbers et al., 2023). Sequence-based population structure 
+and inbreeding estimates were analyzed for forensic STR markers 
+(Aalbers & Weir 2024). Recent statistical innovations in human genetics 
+were reviewed (Balding & Speed 2025). Genomic diversity of Alu 
+insertion polymorphisms was studied in native British and South Asian 
+migrant populations (Beaumont et al., 2023). Foren-STR, a tool for rapid 
+calculation of forensic parameters, was introduced (Castillo-Ortiz et al., 
+2025). The impact of parameter variation on forensic genetic evidence 
+quantification was assessed (Costa et al., 2025). Minimal SNP sets were 
+identified for record-matching with CODIS STR profiles (Gjorgjieva & 
+Rosenberg 2025), and record-matching was achieved with fragmentary 
+genomic SNP data (Kim & Rosenberg 2023). The use of Bayes factors to 
+limit forensic testimony was discussed (Kadane & Nordgaard 2024). 
+Population-specific theta values were estimated for sequence-based STR 
+profiles (Liu et al., 2024). Complex genetic variation was characterized 
+in nearly complete human genomes (Logsdon et al., 2025). The
+transition of STRs from historical loci to population databases in the 
+NGS era was examined (Uguen et al., 2024). The effects of genetic 
+linkage were determined when combining STR and SNP loci for kinship 
+testing (Yang et al., 2024).
+STR Allele Frequency Population Data. Population genetic data 
+have been reported for diverse groups globally, enhancing reference 
+databases. Guidance on population sampling for highly polymorphic 
+STR loci was revisited (Aalbers & Gettings 2026). The impact of religious 
+inbreeding on genetic structure was studied in Lebanon (Abbas et al., 
+2023), alongside population substructure assessments (El Andari et al., 
+2023) and sequence-based allele frequencies (Riman et al., 2023). Data 
+for non-CODIS STR loci were published for Saudi Arabia (Alsafiah & 
+Goodwin 2022). Informed consent practices for population studies were 
+reviewed with a call for harmonization (Bodner & Parson 2025). Genetic 
+ancestry was analyzed in Ecuador for Montubios rural populations 
+(Burgos et al., 2025) and Afro-descendants (Burgos et al., 2022), as well 
+as general population structure (Flores-Espinoza et al., 2022). A refer-
+ence database for 24 STR loci was established for Argentina (Caputo 
+et al., 2023).
+In China, studies covered the Guizhou Gelao minority (Chai et al., 
+2024), 94 populations based on population structure estimates (Dai 
+et al., 2023), the Guizhou Tujia ethnic minority (Li et al., 2023), the 
+Shandong Han population (Liu et al., 2023), the Handan Han population 
+(Wang et al., 2023), the Wuhu Han population (Yang et al., 2024), and 
+the Hainan Han population (Zou et al., 2024). The impact of population 
+size on genetic analysis parameters was investigated (Dash et al., 2025). 
+Genetic analysis of the Moroccan population was performed based on 23 
+autosomal STRs (El Ossmani et al., 2025). Forensic parameters were 
+reported for Western Mexico (García-Aceves et al., 2025) and Mexico 
+City (Salinas-Pineda et al., 2024). STRAF 2 software was released with 
+improvements for population data analysis (Gouy & Zieger 2025). 
+Population studies were conducted in Northwest Iran (Haddadan et al., 
+2024). The Investigator 24plex GO! kit was evaluated for South African 
+populations (Heathfield et al., 2024), and a GlobalFiler dataset was 
+created for Southern Africa (Kasu et al., 2022). The comprehensive 
+landscape of non-CODIS STRs in global populations was described 
+(Huang et al., 2024). Genetic diversity was unveiled in English and Irish 
+populations using SureID kits (Iyavoo et al., 2023) and compared to 
+identify disparities (Perry et al., 2023). STR genotyping was performed 
+for Arabs residing in Russia (Jaber et al., 2025). Allele frequencies were 
+statistically integrated from several organizations (Jeong et al., 2024). 
+A genetic study of the Ghanaian population used 15 autosomal STR 
+loci (Kofi et al., 2023). Allelic frequencies and tri-allelic patterns were 
+identified in the Gabonese population (Lendoye et al., 2023). Novel STR 
+loci were characterized in the Sierra Leone population (Liu et al., 2024). 
+A PowerPlex Fusion 6C study examined a mestizo population from 
+Mexico City (L´ opez-Armenta et al., 2024). A genetic database was 
+established from a Spanish Civil War population (L´ opez-Parra et al., 
+2025). DNA polymorphism was studied in Mentawai populations 
+(Manela et al., 2023). STR loci were evaluated in South and West Indian 
+populations (Mathiyazhagan et al., 2023) and North and East Indian 
+populations (Mathiyazhagan et al., 2024). A dataset was created for the 
+Hawrami population in Iraq (Mohammad et al., 2025), and variation 
+was assessed across 6 Iraqi cities (Sabbah et al., 2023). Genetic variation 
+was analyzed in Peruvian populations (Neyra-Rivera & Budowle 2022, 
+Ramirez et al., 2025, Ramos et al., 2025). Characterization was per-
+formed for the Sikh population of Sri Ganganagar (Ostwal et al., 2025), 
+the Brahmin population of Rajasthan and Haryana (Sharma et al., 2023), 
+and the Sikkim population in the Central Himalayas (Priyank et al., 
+2024). Population data were published for the Romanian population 
+(Popoiu et al., 2025). Genetic variability was assessed in Austroasiatic-
+speaking populations from Thailand (Prakhun et al., 2024). Allele fre-
+quencies and forensic data were reported for Northeast Brazil (Santos 
+et al., 2023). Genetic diversity was analyzed in the Russian Federation 
+using PowerPlex CS7 (Semikhodskii et al., 2023) and Investigator 
+HDplex (Semikhodskii et al., 2024). Genome-wide STR variation was
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+20 
+
+
+================ PAGE 21 ================
+characterized in 6487 human genomes (Shi et al., 2023). Polymorphism 
+and structure were analyzed for a Han-Chinese population from Luzhou 
+(Song et al., 2023). Genetic variation was studied among siblings of 
+Madurese living in Surabaya (Yudianto et al., 2023). A reference data-
+base was created for populations in Burkina Faso (Zeye et al., 2024). 
+Finally, data were published for the Tawahka ethnic group in Honduras 
+(Zuniga et al., 2025).
+STR Allele Sequence Data. Massively parallel sequencing is 
+providing high-resolution allele data. An overview of autosomal STRs 
+and SNPs was provided for a Norwegian population (Agudo et al., 2024). 
+High-resolution genotyping of 58 STRs was performed in Northern Han 
+Chinese (Guo et al., 2023) and Northeastern Xibe populations (Guo 
+et al., 2024). Forensic implications of a new microvariant allele at Penta 
+E were discussed (Kocsis et al., 2023). Variability of 27 STR loci was 
+assessed for the Republic of Belarus (Kotova et al., 2023). A sequence-
+based Rwanda population study provided insights into demographic 
+history (Miao et al., 2024). A combined panel of 107 STRs and 292 SNPs 
+was sequenced in the Han Chinese population (Sun et al., 2025). Pop-
+ulation genetic analyses of an Eastern Chinese Han population were 
+done using the ForenSeq DNA Signature Prep Kit (Tao et al., 2024). 
+Sequence-based data for five STRs were reported for a Northeast Italy 
+population (Turrina et al., 2025). Parallel sequencing of 170 STR and 
+132 SNP markers was performed using the FGID kit (Zhen et al., 2024).
+3.10. Human identification and kinship analysis
+Human remains identification can be important for many applica-
+tions including identifying victims of war or mass disasters and missing 
+persons casework. This work often relies on using kinship analysis with 
+reference samples from close biological relatives. Methods to distinguish 
+monozygotic twins or perform prenatal paternity testing continue to be 
+developed. Some forensic investigations have also employed human 
+DNA recovered from mosquitoes, leeches, and bed bugs.
+Books, Review Articles, and Guidance. Guidance for human 
+identification has been updated across various contexts. The Association 
+for the Advancement of Blood and Biotherapies (AABB) released the 
+16th edition of standards for relationship testing laboratories (AABB 
+Relationship Testing Standards Committee 2024). A review covered the 
+computational analysis of human skeletal remains in ancient and 
+forensic genetics (Childebayeva & Zavala 2023). Interdisciplinary ap-
+proaches were proposed for identifying remains and missing persons 
+(Dahal et al., 2023). Current and emerging solutions for identifying 
+"genealogically bewildered" individuals were reviewed (Dash & Patel 
+2025). A comprehensive volume addressed the recovery, analysis, and 
+interpretation of burnt human remains (Ellingham et al., 2023). Genetic 
+reconstruction of the past and its application to forensics were discussed 
+(Erlich 2023). The UK Forensic Science Regulator issued guidance on 
+DNA relationship testing using autosomal STRs (Forensic Science 
+Regulator 2024). INTERPOL updated its Disaster Victim Identification 
+Guide (INTERPOL 2023). A bibliometric analysis traced global trends in 
+kinship analysis from 1960 to 2023 (Liu et al., 2024). Methods for 
+forensic human identification were reviewed within the context of smart 
+healthcare (Mohamed et al., 2023). The history and present state of DNA 
+profiling for identification were summarized (Panneerchelvam & Nor 
+2023), along with identification practices in India (Patra et al., 2023). 
+SWGDAM released guidelines for missing persons casework (Scientific 
+Working Group on DNA Analysis Methods 2024). Recommendations 
+were provided for identifying altered human remains using standard and 
+emerging technologies (Senst et al., 2023). DNA profiling from burnt 
+remains was detailed (Zapico & Stone-Gordon 2023).
+Human Remains Identification for War Victims and Others. 
+Identification efforts for war victims and mass graves remain a critical 
+application. Case reviews highlighted human identification through 
+forensic skeletal analysis (Adserias-Garriga et al., 2024). Large consortia 
+reported on identifying victims of the Spanish Civil War (Arroyo-Pardo 
+et al., 2025, Baeta et al., 2025). A large-scale forensic search was
+conducted for remains of fallen soldiers from the American Revolu-
+tionary War (Bigman et al., 2023). Family reunification was achieved for 
+survivors of the Armero-Tolima natural disaster in Colombia (Cuervo 
+et al., 2022). Identification challenges in Iraq were discussed (Farhan 
+et al., 2025). Skeletal remains of Baron Pasquale Revoltella were 
+examined with various genetic markers (Fattorini et al., 2023). Ancient 
+human remains from an Italian medieval site were analyzed (Gianfreda 
+et al., 2025). The Korean War Identification Project's expanding scope 
+was detailed (Go et al., 2023), including genetic identification studies 
+(Zhang et al., 2024) and ancestry analysis of cremated remains (Oh & 
+Park 2022). NGS and CE were compared for analyzing human remains 
+(Kokotas et al., 2025). Polish World War II victims, including a pilot 
+(Lisman et al., 2023a) and an unknown soldier (Lisman et al., 2023b), 
+were identified. The political struggle over declaring missing soldiers 
+dead using DNA technology was analyzed historically (Liu 2025). 
+Forensic archaeology identified a fallen World War I soldier in France 
+(Meucci Duly et al., 2024). The remains of the German outlaw Schin-
+derhannes were identified (Parson et al., 2025). A 30-year review 
+covered identification efforts in Croatia and Bosnia and Herzegovina 
+(Primorac et al., 2024). WWII victims in Crete were identified using 
+ancient DNA approaches (Psonis et al., 2024). Lessons learned from 
+management of the forensic DNA identification operation following the 
+October 7, 2023 attacks in Israel were described (Ram et al., 2025). 
+Identification success rates were analyzed for Spanish Civil War mass 
+graves (Sanchis-Gimeno et al., 2024). A forensic approach was applied 
+to remains from an Italian cemetery collapse into the sea (Tettamanti 
+et al., 2022). DNA techniques were evaluated for human remains from 
+historic shipwrecks (Watherston & McNevin 2024).
+Methods and Sample Types. Optimization of methods for chal-
+lenging samples continues. Identification methods were compared be-
+tween Brazil and the United States (Bastos Vieira et al., 2025). A 
+multidisciplinary approach identified skeletal remains from Sandy 
+Point, Australia (Blau et al., 2024). Elemental and microbial evidence 
+were used as a "forensic footprint" in relocated remains (Bolhofner et al., 
+2025). Fingernails were identified as an optimal DNA source for 
+decomposed bodies in seawater (Della Rocca et al., 2024). Mass spec-
+trometry mRNA typing identified single hair shafts (Fan et al., 2025). A 
+multidisciplinary approach profiled a single tooth and fingernail sample 
+(Hulst et al., 2025). A sampling strategy was recommended for World 
+War II victims in Slovenia (Inkret et al., 2025). Humeri pair matching 
+was studied on a large scale (LeGarde 2025). RNA polymorphism was 
+used for hair shaft identification (Liu et al., 2023). Advances in com-
+mingled human remains analysis were reviewed (Palmiotto et al., 2024). 
+Cranial bone mutilation victims were identified using a combined 
+approach (Priyatna et al., 2024). High-throughput SNP multiplex NGS 
+was evaluated for human remains identification (Radecke et al., 2023). 
+Innovations in human identification by the French Gendarmerie were 
+reviewed (Sauvag`ere et al., 2023). Ancient DNA was recovered from a 
+20,000-year-old pendant (Sterling 2023). Y-STR analysis was successful 
+on highly degraded skeletal remains (Zhang et al., 2024).
+Missing Persons Casework. Missing persons investigations face 
+unique challenges. Genetic data recovery from remains on the Western 
+Balkan migration route was discussed (Barbari´c & Horjan-Zanki 2023). 
+Kinship SNP microarrays were used for identification in the absence of 
+two generations (Biagini et al., 2025). NGS mitogenomes and pheno-
+typing identified a newborn abandoned in a dumpster (Bini et al., 2025). 
+A family reference DNA database was established for missing Australian 
+service members (Connell et al., 2025). Efforts were reported with 
+identification of human remains in a unique mummification case (Flouri 
+et al., 2024). A software tool was tested to aid prioritization in selecting 
+potential family reference samples to verify incomplete pedigrees 
+(Iungman et al., 2022). Alternative workflows were proposed for iden-
+tifying transnational missing persons (Kaplan et al., 2023). A case of dog 
+scavenging on an elderly animal hoarder was described (Kmetiuk et al., 
+2023). The missing person problem was analyzed through information 
+theory (Marsico et al., 2024). A study from Hesse, Germany, found that
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+21 
+
+
+================ PAGE 22 ================
+DNA examinations were performed in 40% of human bone finds with 
+81% of these yielding STR profiles (Ohlw¨ arther et al., 2024). Forensic 
+genetic programs for missing person identification in humanitarian 
+contexts were reviewed (Orozco 2025). Physical and molecular an-
+thropology were combined to profile unidentified migrants (Pilli et al., 
+2023). Public and family support for providing DNA in long-term 
+missing persons cases was surveyed (Russell et al., 2023a), identifying 
+main concerns and policy implications (Russell et al., 2023b). Chal-
+lenges of migrant mortality accounting in Texas were discussed (Siegert 
+et al., 2024). The Australian approach to unidentified and missing per-
+sons was detailed (Ward 2022, Ward 2024). Kinship testing techniques 
+were reviewed (Watson et al., 2024). A two-decade-old murder was 
+solved using a collagen peptide mass spectrometry fingerprinting tech-
+nique (“ ZooMS” ) and ancient DNA methods (Xu et al., 2023).
+Disaster Victim Identification (DVI). DVI protocols are adapting to 
+mass casualty events. Challenges were identified by Australian practi-
+tioners (Adamovic et al., 2023). Stable isotope analysis was reviewed for 
+identifying unknown decedents (Chesson et al., 2024). Ethnographic 
+observation highlighted challenges in 21st-century DVI (Easthope 
+2023). SNP assays were reviewed for cost, time, and performance in DVI 
+(Gettings et al., 2024). Forensic archaeology and anthropology contri-
+butions were reviewed to aid sample selection for DNA testing (Hanson 
+& Fenn 2024). Deep learning-based STR analysis was applied to mass 
+casualty incidents (Khalid & Khamiss 2024). Forensic medicine chal-
+lenges were discussed following the October 7, 2023 attacks in Israel 
+(Kuge et al., 2024). The association between DNA and odontology was 
+systematically reviewed (Lopez Toribio et al., 2024). Forensic odontol-
+ogy's role was specifically detailed (Miller 2024). Efforts to identify the 
+dead in the October 7, 2023 terror attack at the Israel-Gaza border were 
+described (Mor et al., 2024). Recommendations on storage of biological 
+samples were made based on the "Mass Grave Project" (Sguazzi et al., 
+2025). The feasibility of cell-free DNA for DVI was assessed (Worrapi-
+tirungsi et al., 2024). A simple postmortem sampling method was pro-
+posed for efficient DVI (Zgonjanin et al., 2025).
+Software Tools and Computational Methods for Kinship Anal-
+ysis. Software and statistical models are improving kinship inference. 
+Multistep mutations in STRs were analyzed for their perception as 
+single-step events (Ant˜ ao-Sousa et al., 2022). Bayesian networks were 
+validated for the GENis missing person module (Chernomoretz et al., 
+2022). Posterior parameters were analyzed from paternity tests in 
+Mexico (García-Aceves et al., 2023). A deep neural network model was 
+developed for paternity testing (Khalid & Nafea 2023). FamLink2 was 
+introduced for likelihood computations in pedigrees with linked markers 
+(Kling et al., 2025). Mutational analysis of 23 STRs was based on trio 
+paternity testing in Korea (Lee et al., 2024). Easykin, an online tool for 
+kinship testing, was developed (Li et al., 2023). A general approach for 
+combining non-genetic and genetic data was proposed (Marsico & 
+Egeland 2025). Computations for relationship inference using low-
+coverage sequencing were improved (Mostad et al., 2023). Paternity 
+testing using 21 STRs was reported in Rwanda (Ndungutse et al., 2023). 
+Software options for likelihood ratio calculations were explored for low-
+template DNA paternity cases (Riem et al., 2025). Uncertainties in 
+different kinship scenarios were evaluated (Rockenbauer et al., 2025). 
+The impact of theta correction in siblings testing was assessed (Ti`eche 
+et al., 2025). Identification value of STRs was determined for indigenous 
+peoples of Russia (Vagaitseva et al., 2024). M-FISys software was opti-
+mized for complex family pedigrees (Vinueza-Espinosa et al., 2025). 
+Complex kinship inferences were made using combined STRs and 
+microhaplotypes (Wei et al., 2025). Pedigree likelihood formulae based 
+on founder symmetry were assessed (Yang 2023). The efficiency of 
+common markers for parentage identification involving close relatives 
+was evaluated (Zhang et al., 2023).
+Complex Paternity/Kinship Cases. Complex biological relation-
+ships and scenarios require specialized analysis. The medicolegal con-
+cerns of "three-parent babies" were discussed (Chitara et al., 2025). Null 
+alleles caused interpretative problems in a paternity case where close
+biological relatives refused to provide reference DNA samples (A. Di 
+Nunzio et al., 2022). Deconvolution rules were used to solve a complex 
+case involving a chimeric child (C. Di Nunzio et al., 2022). The impact of 
+additional STR loci on paternity test accuracy was studied (Fontanil 
+et al., 2025). Ethical challenges of the Amelogenin sex test were 
+reviewed (Gabriele et al., 2023). Informativity of X-STRs was analyzed 
+in real kinship cases (García-Aceves et al., 2025). Heterozygosity 
+reduction was observed in children of closely related parents (Iyavoo 
+et al., 2022). Aborted fetal material was analyzed in sexual assault cases 
+(Jusic et al., 2023). Massively parallel sequencing of human leukocyte 
+antigen (HLA) genes was used to assess relatedness in deficiency 
+parentage testing (Kouniaki et al., 2024). The effect of uniparental dis-
+omy in parentage testing was examined (Ma et al., 2024). Chain of 
+custody was highlighted as a vital component in kinship cases involving 
+close relatives (Mishra & Raina 2024). Paternity exclusions were char-
+acterized in Honduras (Molina et al., 2023). A paternity case was solved 
+using formalin-fixed paraffin-embedded tissue (Song et al., 2023). 
+Common mutations in parentage testing were analyzed in Zimbabwe 
+(Thelingwani et al., 2024).
+New or Improved Methods for Kinship Analysis. High-throughput 
+and novel marker systems are advancing kinship determination. A dense 
+SNP PCR multiplex was applied for high-throughput kinship using NGS 
+(Antunes et al., 2022). NGS-based SNP genotyping was evaluated for 
+second- and third-degree kinship (Asari et al., 2025). Bi-allelic auto-
+somal SNPs were effective for parentage testing in Taiwan (Chen et al., 
+2024). A novel approach used the physical length of genetically shared 
+regions (Cho et al., 2024). High-density SNP microarrays were assessed 
+for pairwise kinship with degraded DNA (Chu et al., 2023). Genome-
+wide and targeted sequencing were compared (Colucci et al., 2025), 
+and 1993 SNP loci were applied to pairwise kinship identification (Cui 
+et al., 2023). Considerations for implementing MPS into routine analysis 
+were outlined (Davenport et al., 2025). A likelihood ratio framework 
+was proposed for inferring close kinship from dynamically selected SNPs 
+(Ge et al., 2025). The Precision ID GlobalFiler NGS STR panel v2 was 
+used for single exclusion paternity cases (Gouveia et al., 2025). A high-
+throughput SNP assay was assessed for closed scenario kinship (Kiesler 
+et al., 2025). Testing efficacy of SNP microarrays was enhanced for 
+distinguishing pedigrees (Mo et al., 2025). A software program, cor-
+rectKin, was optimized for inferring relatedness from low-coverage 
+ancient genomes (Nyerki et al., 2023). Extended kinship inference was 
+evaluated using STRs and SNPs (Watson et al., 2025a) and the impact of 
+information loss was assessed (Watson et al., 2025b). Efficiency of 
+complex kinship identification was improved by adding markers and 
+reference individuals (Wen et al., 2025). Novel SNP markers were 
+identified for the Korean population (Youn et al., 2023). Kinship prob-
+ability in ancient skeletons was improved using identity SNPs and MPS 
+(Zupaniˇc Pajniˇc et al., 2023).
+Distinguishing Monozygotic Twins and Prenatal Paternity 
+Testing. Identifying identical twins and non-invasive prenatal testing 
+are key frontiers. Strategies to solve the "twin paradox" were reviewed 
+(Aourangzaib et al., 2024). Genetic markers for noninvasive prenatal 
+paternity testing were reviewed (Carrara & Hall 2025). Early noninva-
+sive prenatal paternity testing was achieved by targeted fetal DNA 
+analysis (Damour et al., 2023). DNA methylation was used to identify 
+monozygotic triplets (El-Hossary et al., 2024). Isoalleles and flanking 
+SNPs were analyzed to distinguish monozygotic twins (Fonseca & 
+Fridman 2022, Fonseca et al., 2025, Fridman et al., 2025). Microbiota 
+information and genetic algorithms improved distinguishing power (Fu 
+et al., 2023). A theoretical base was established for non-invasive pre-
+natal paternity testing (Gao et al., 2023). Fetal DNA extraction tech-
+niques were compared (Guevara-Ramírez et al., 2025). DNA 
+identification of monozygotic twins was reviewed (Hwa et al., 2024). 
+DNA methylome profiling identified individuals in a twin pair (Kim 
+et al., 2023). Rare mitochondrial genome differences were explored (Liu 
+et al., 2023). Progress in personal identification of monozygotic twins 
+was summarized (Liu et al., 2025). Immune repertoire sequencing
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+22 
+
+
+================ PAGE 23 ================
+distinguished twins' blood samples (Meng et al., 2023). A SNP-based 
+approach was developed for non-invasive prenatal paternity testing 
+(Qu et al., 2024). NGS was used to differentiate twins (Skrant et al., 
+2023). Single-nucleotide variants were used for twin discrimination 
+(Sun et al., 2024). A case was reported in dizygotic twins of hetero-
+paternal superfecundation, which is the fertilization of two oocytes by 
+different spermatozoa within the same ovulatory cycle (Timasheva & 
+Tuktarova 2025). A monozygotic twin was identified as a donor in a 
+mixed stain case (van der Gaag et al., 2025). Circular RNA expression 
+profiles were used to distinguish twins (Wang et al., 2024). MicroRNA 
+profiling differentiated twins in peripheral blood (Wang et al., 2025). 
+Heteroplasmy of mtDNA was used for discrimination through probe 
+capture enrichment (Zhong et al., 2023).
+Human DNA in Mosquitoes, Leeches, and Bed Bugs. Vectors can 
+serve as sources of human DNA evidence. STR profiling identified 
+humans from mixed mosquito blood meals (Ahmed et al., 2023). Human 
+STR profiles were generated from blood ingested by leeches (Knapp 
+et al., 2024). The “ bistro”  R package was developed for vector blood-
+meal identification (Lapp et al., 2024). Tropical bed bugs were used for 
+human profiling (Lim & Ab Majid 2023) and a protocol was established 
+(Lim & Ab Majid 2024). Bed bugs were reviewed as undercover agents in 
+forensic investigations (Meiklejohn et al., 2025). Human DNA profiles 
+were obtained from mosquito blood meals in Thailand (Suwannakart 
+et al., 2024). Sex-typing of ingested blood was performed using the 
+amelogenin gene (Talebzadeh et al., 2023). Mitochondrial genes and Alu 
+elements detected human DNA in mosquito blood meals (Talebzadeh 
+et al., 2023). Exogenous DNA was detected from the gut of a Neotropical 
+carrion beetle (Toni et al., 2023).
+4. Emerging technologies and Research studies
+New technologies to aid forensic DNA typing are constantly under 
+development. This section explores recent activities with next-
+generation DNA sequencing, DNA phenotyping for estimating a sam-
+ple donor's age, ancestry, and appearance, lineage markers, other 
+markers and approaches, and non-human DNA and wildlife forensics. 
+This material is expected to be of value to researchers and those prac-
+titioners looking to future directions in the field.
+4.1. Next-generation sequencing and technology developments
+Next-generation sequencing (NGS), also known as massively parallel 
+sequencing (MPS) in the forensic DNA community, expands the mea-
+surement capabilities and information content of a DNA sample beyond 
+the traditional length-based results with STR markers obtained using 
+capillary electrophoresis (CE) methods.
+Books, Review Articles, and Guidance. Several comprehensive 
+texts and reviews have recently addressed the implementation of NGS in 
+forensics. A transition from capillary electrophoresis to NGS was advo-
+cated to meet the need for higher throughput analysis (Al-Snan 2023a), 
+and the specific utility of NGS-based microRNA analysis for forensic 
+applications was detailed (Al-Snan 2023b). An overview of current 
+platforms highlighted the technological advancements facilitating these 
+shifts (Barbaro 2023), while specific applications for analysis of hairs 
+with roots demonstrated success rates of 96% to 98% using modified 
+protocols (Benitez & Elkins 2023). Chapters have also covered the 
+application of NGS for autosomal STRs (Berry 2023) and the necessary 
+validation procedures for implementing NGS in casework laboratories 
+(Bispo Santos Silva 2023). Policy considerations and forensic applica-
+tions of NGS were reviewed to address the legal framework (Browne & 
+Freeman 2024), alongside protocols for processing biological samples 
+for NGS analysis (Coticone & Garcia 2023). Textbooks published in this 
+period included Next Generation Sequencing (NGS) Technology in DNA 
+Analysis (Dash et al., 2024) and Advancements in Forensic DNA Analysis 
+(Dash et al., 2023). A survey of Southeast Asian laboratories revealed 
+that while only 8 of 19 respondents currently use MPS, 10 of the
+remaining non-users plan to adopt it within five years (Estrella et al., 
+2025). The potential of long-read sequencing was explored, with results 
+showing the ability to phase 87% of protein-coding genes (Ferreira et al., 
+2025). Other works focused on the ForenSeq DNA Signature Prep Kit 
+methods (Foley 2023) and a global snapshot of opinions on NGS usage 
+(Foley and Oldoni 2023). Reviews also covered pyrosequencing meth-
+odologies (Ghemrawi et al., 2023) and the challenges of introducing 
+massively parallel sequencing into the UK market (Hartshorne et al., 
+2024). Further reviews discussed third-generation sequencing progress 
+(Hu et al., 2024), the forensic relevance of SNP analysis (Malhotra & 
+Sehgal 2023), and the analysis of challenging samples (Messaoudi 
+2023). The role of artificial intelligence in NGS was examined (Ouanes 
+2023), alongside the opportunities and barriers for implementing NGS 
+and SNP microarrays in routine practice (Pedroza Matute & Iyavoo 
+2025). Future trends were identified in the use of compound genetic 
+markers (Shabalala et al., 2025) and the application of nanopore 
+sequencing (Tytgat & Van Nieuwerburgh 2023).
+Library Preparation, Enrichment, and Quality Control. Efforts to 
+improve data quality and recovery from difficult samples have led to 
+several methodological optimizations. An enhanced error suppression 
+strategy was developed that achieved a background error rate of less 
+than 4.4 × 10   5 per base pair (Chen et al., 2025). For highly burned 
+skeletal remains, targeted enrichment of whole-genome SNPs indicated 
+that teeth subjected to temperatures below 350 ◦ C provided the highest 
+DNA yields (Emery et al., 2024). Genome-wide hybridization capture 
+enrichment was tested on six degraded bones from the Spanish Civil 
+War, yielding results comparable to autosomal STR analysis but with 
+additional insights (Haark¨ otter et al., 2025). A study on DNA quality for 
+whole genome library preparation was conducted (Jansson et al. 2024), 
+and an evaluation of DNA extraction and library building methods was 
+performed to prepare for shotgun sequencing (Kampmann et al., 2025). 
+Optimization of crude buccal swab lysates for the ForenSeq kit involved 
+dilution and purification steps, which improved success rates in samples 
+where 93% initially showed inhibition (Martin & Heathfield 2025). A 
+workflow for dual nucleic acid co-extraction allowed for the integrated 
+sequencing of both DNA and RNA (Miao et al., 2025). Automation was 
+addressed with the development of a workflow for ForenSeq library 
+preparation (Scherer et al., 2025), and the Agilent 2100 Bioanalyzer was 
+applied as a quality control instrument for NGS (Senst et al., 2024). 
+Sequencing STR Markers. The transition to sequence-based STR 
+genotyping has required new standards and software tools. Guidelines 
+for submitting data to STRSeq were updated (Borsuk et al., 2022), and 
+unique molecular identifiers were used to improve allele calling in low-
+template mixtures (Crysup et al., 2023). Secondary structure predictions 
+of autosomal STR alleles were analyzed using NGS data (Dash & Ranga 
+2024), and comparisons between massively parallel sequencing and 
+capillary electrophoresis for trace DNA were reported (Dierig et al., 
+2024). The ISFG DNA Commission published recommendations on STR 
+sequence nomenclature (Gettings et al., 2024). Studies characterized the 
+amplification of STR markers in multiplex polymerase chain displace-
+ment reactions (Huang et al., 2023) and developed support systems like 
+STRategy for collecting and analyzing NGS data (Kulthammanit et al., 
+2023). Sequence variations in flanking regions were characterized for 21 
+autosomal and 21 Y-chromosome STR markers (Li et al., 2024), and the 
+GeneMarker HTS software was utilized for allele identification with 
+variant tolerance (Luo et al., 2022). Software for analyzing rare and 
+common STR variation was compared using human genome sequences 
+(Oketch et al., 2024), and concordance between length- and sequence-
+based STRs was evaluated (Sathirapatya et al., 2023). Ultrasensitive 
+sequencing utilizing SiMSen-Seq and unique molecular identifiers was 
+described (Sidstedt et al., 2024). The era of long-read sequencing for 
+tandem repeats was highlighted (Tandem repeats 2024), and the shift 
+from historical loci to population databases was discussed (Uguen et al., 
+2024). New tools included TRcaller for ultrafast variant genotyping 
+(Wang et al., 2023) and STRsensor for computationally efficient allele-
+typing (Zhang et al., 2025).
+J.M. Butler Forensic Science International: Synergy 13 (2026) 100705 
+23 
+
