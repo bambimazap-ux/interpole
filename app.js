@@ -33,7 +33,7 @@ const fallbackDnaData = [
       }
     ],
     "source_pages": "1-10",
-    "audio_path": "media/dna_ch1.mp3",
+    "audio_path": "media/dna_ch1.m4a",
     "video_path": "media/dna_ch1.mp4"
   },
   {
@@ -65,7 +65,7 @@ const fallbackDnaData = [
       }
     ],
     "source_pages": "11-15",
-    "audio_path": "media/dna_ch2.mp3",
+    "audio_path": "media/dna_ch2.m4a",
     "video_path": "media/dna_ch2.mp4"
   },
   {
@@ -97,7 +97,7 @@ const fallbackDnaData = [
       }
     ],
     "source_pages": "15-17",
-    "audio_path": "media/dna_ch3.mp3",
+    "audio_path": "media/dna_ch3.m4a",
     "video_path": "media/dna_ch3.mp4"
   },
   {
@@ -129,7 +129,7 @@ const fallbackDnaData = [
       }
     ],
     "source_pages": "17-23",
-    "audio_path": "media/dna_ch4.mp3",
+    "audio_path": "media/dna_ch4.m4a",
     "video_path": "media/dna_ch4.mp4"
   },
   {
@@ -166,7 +166,7 @@ const fallbackDnaData = [
       }
     ],
     "source_pages": "10-11, 23-32",
-    "audio_path": "media/dna_ch5.mp3",
+    "audio_path": "media/dna_ch5.m4a",
     "video_path": "media/dna_ch5.mp4"
   }
 ];
