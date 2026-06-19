@@ -107,8 +107,10 @@
                 </div>
             </header>
 
-            <!-- Content Area Container -->
-            <div class="content-viewport">
+            <!-- Split View Wrapper -->
+            <div class="main-split-container">
+                <!-- Content Area Container -->
+                <div class="content-viewport">
                 <!-- Search Results Bar (Dynamic) -->
                 <div class="search-status-bar glass-card" id="search-status" style="display: none;">
                     <div class="search-status-text" id="search-status-text"></div>
@@ -163,7 +165,24 @@
                     </div>
                 </section>
             </div>
-        </main>
+            
+            <!-- PDF Viewer Panel -->
+            <div class="pdf-viewer-panel" id="pdf-viewer-panel" style="display: none;">
+                <div class="pdf-viewer-header">
+                    <button class="close-pdf-btn" onclick="closePdfViewer()">
+                        <i class="fa-solid fa-xmark"></i> סגור מסמך מקור
+                    </button>
+                    <span class="pdf-viewer-title" id="pdf-viewer-title">דוח מקורי באנגלית</span>
+                    <a class="external-pdf-btn" id="pdf-external-link" href="#" target="_blank">
+                        <i class="fa-solid fa-up-right-from-square"></i> פתח בחלון חדש
+                    </a>
+                </div>
+                <div class="pdf-viewer-body">
+                    <iframe id="pdf-iframe" src="" frameborder="0"></iframe>
+                </div>
+            </div>
+        </div> <!-- End of main-split-container -->
+    </main>
     </div>
 
     <!-- Script loading -->

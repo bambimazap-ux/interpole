@@ -574,6 +574,39 @@ function hideGlossaryView() {
     switchCategory(currentCategory);
 }
 
+// --- PDF Embedded Viewer & Split View ---
+function openPdfViewer(pdfFile, pageNum, event) {
+    if (event) event.preventDefault();
+    
+    const iframe = document.getElementById('pdf-iframe');
+    const panel = document.getElementById('pdf-viewer-panel');
+    const mainContent = document.querySelector('.main-content');
+    
+    if (iframe && panel && mainContent) {
+        iframe.src = `pdf/${pdfFile}#page=${pageNum}`;
+        const extLink = document.getElementById('pdf-external-link');
+        if (extLink) extLink.href = `pdf/${pdfFile}#page=${pageNum}`;
+        
+        const titleSpan = document.getElementById('pdf-viewer-title');
+        if (titleSpan) {
+            titleSpan.textContent = `מסמך מקור - ${pdfFile === 'dna_report.pdf' ? 'ביולוגיה ודנ"א' : 'טביעות אצבע'} (עמוד ${pageNum})`;
+        }
+        
+        panel.style.display = 'flex';
+        mainContent.classList.add('split-active');
+    }
+}
+
+function closePdfViewer() {
+    const iframe = document.getElementById('pdf-iframe');
+    const panel = document.getElementById('pdf-viewer-panel');
+    const mainContent = document.querySelector('.main-content');
+    
+    if (mainContent) mainContent.classList.remove('split-active');
+    if (panel) panel.style.display = 'none';
+    if (iframe) iframe.src = '';
+}
+
 // --- Theme Toggle (Dark / Light Mode) ---
 function toggleTheme() {
     const isLight = document.body.classList.contains('light-mode');
@@ -950,7 +983,8 @@ function renderChapters() {
             <!-- Footer -->
             <div class="chapter-card-footer">
                 <a href="pdf/${currentCategory === 'dna' ? 'dna_report.pdf' : 'fingermark_report.pdf'}#page=${getPdfPage(ch.source_pages)}" 
-                   target="_blank" class="pdf-link-btn">
+                   onclick="openPdfViewer('${currentCategory === 'dna' ? 'dna_report.pdf' : 'fingermark_report.pdf'}', ${getPdfPage(ch.source_pages)}, event)"
+                   class="pdf-link-btn">
                     <i class="fa-solid fa-file-pdf"></i>
                     <span>דוח מקורי (עמוד ${getPdfPage(ch.source_pages)})</span>
                 </a>
