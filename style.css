@@ -1858,3 +1858,65 @@ body.light-mode .pdf-viewer-panel {
     }
 }
 
+/* --- Global Portal Welcome Card --- */
+.portal-welcome-card {
+    padding: 2.2rem;
+    margin-bottom: 2rem;
+    border-radius: var(--border-radius-lg);
+    background: rgba(255, 255, 255, 0.02);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    position: relative;
+    overflow: hidden;
+}
+
+.welcome-badge {
+    display: inline-block;
+    padding: 4px 14px;
+    background: rgba(var(--accent-rgb), 0.15);
+    color: var(--accent);
+    border: 1px solid rgba(var(--accent-rgb), 0.25);
+    border-radius: 20px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.portal-main-title {
+    font-family: var(--font-english);
+    font-size: 1.9rem;
+    font-weight: 800;
+    margin-bottom: 0.4rem;
+    background: linear-gradient(135deg, #ffffff 40%, var(--accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: -0.5px;
+}
+
+body.light-mode .portal-main-title {
+    background: linear-gradient(135deg, #111827 40%, var(--accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.portal-sub-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text-secondary);
+    margin-bottom: 1.2rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.8rem;
+}
+
+.portal-explanation {
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: var(--text-muted);
+    text-align: justify;
+}
+
+
