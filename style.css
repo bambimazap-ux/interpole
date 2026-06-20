@@ -1567,14 +1567,19 @@ body.light-mode .search-highlight {
     }
     
     .sidebar-header,
-    .sidebar .nav-section:nth-of-type(2), /* Chapter links section */
-    .sidebar .nav-section:nth-of-type(3), /* Bookmarks section */
+    #chapter-nav-section,
+    #bookmarks-nav-section,
     .sidebar .app-version {
         display: none !important;
     }
     
     .sidebar .nav-section {
         margin-bottom: 0;
+    }
+
+    #category-nav-section .category-nav {
+        flex-direction: row;
+        gap: 0.75rem;
     }
     
     .category-btn,
