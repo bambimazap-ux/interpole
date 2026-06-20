@@ -545,7 +545,7 @@ function switchCategory(category) {
     if (category === 'dna') {
         bannerTitle.textContent = 'דנ"א וביולוגיה פורנזית';
         bannerDesc.textContent = 'סקירה מקיפה של התפתחויות מדעיות, שיטות הפקה, כלי תקינה וטכנולוגיות MPS/FIGG חדישות.';
-        bannerIcon.className = 'fa-solid fa-helix banner-icon';
+        bannerIcon.className = 'fa-solid fa-dna banner-icon';
     } else {
         bannerTitle.textContent = 'טביעות אצבע וויזואליזציה';
         bannerDesc.textContent = 'מחקרים בהרכב הכימי של עקבות, שיטות הדמיה אופטיות, פיתוח ממיסים ירוקים והשפעת ריאגנטים על DNA.';
