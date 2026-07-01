@@ -75,6 +75,14 @@ body.theme-fm {
     --accent-glow: rgba(157, 80, 187, 0.35);
 }
 
+body.theme-firearms {
+    --accent: hsl(38, 90%, 55%);
+    --accent-rgb: 245, 158, 11;
+    --accent-hover: hsl(38, 100%, 45%);
+    --accent-gradient: linear-gradient(135deg, hsl(38, 90%, 55%), hsl(25, 85%, 45%));
+    --accent-glow: rgba(245, 158, 11, 0.35);
+}
+
 body.theme-glossary {
     --accent: hsl(210, 85%, 55%);
     --accent-rgb: 59, 130, 246;
